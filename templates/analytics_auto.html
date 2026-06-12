@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Universal Analytics Dashboard</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+
+body{
+    font-family:Arial;
+    background:#f4f4f4;
+    padding:30px;
+}
+
+.cards{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,.1);
+    min-width:200px;
+}
+
+.chart{
+    background:white;
+    padding:20px;
+    margin-top:30px;
+    border-radius:12px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>📊 Universal Analytics Dashboard</h1>
+
+<div class="cards">
+
+{% for key,value in kpis.items() %}
+
+<div class="card">
+
+<h3>{{ key }}</h3>
+
+<h2>{{ value }}</h2>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+<div class="chart">
+
+<canvas id="autoChart"></canvas>
+
+</div>
+
+<script>
+
+fetch('/api/auto-chart')
+
+.then(response => response.json())
+
+.then(data => {
+
+const ctx = document
+.getElementById('autoChart')
+.getContext('2d');
+
+new Chart(ctx,{
+
+type:'bar',
+
+data:{
+
+labels:data.labels,
+
+datasets:[{
+
+label:data.title,
+
+data:data.values,
+
+backgroundColor:'#667eea'
+
+}]
+
+}
+
+});
+
+});
+
+</script>
+
+</body>
+
+</html>

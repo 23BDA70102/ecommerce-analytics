@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}Data Table - E-Commerce Analytics{% endblock %}
+
+{% block content %}
+
+<h1 style="margin-bottom: 30px;">📊 Data Table</h1>
+
+<div style="overflow-x: auto;">
+    {{ data|safe }}
+</div>
+
+<div style="text-align: center; margin-top: 30px;">
+    <a href="/analytics" class="btn btn-primary btn-lg">Back to Analytics</a>
+    <a href="/upload" class="btn btn-secondary btn-lg">Upload New Data</a>
+</div>
+
+{% endblock %}

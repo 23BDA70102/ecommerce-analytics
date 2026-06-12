@@ -1,0 +1,1501 @@
+date,product,category,quantity,sales,region
+2024-01-01,T-Shirt,Clothing,19,676.35,South
+2024-01-01,T-Shirt,Clothing,45,1698.08,West
+2024-01-01,Charger,Mobile,19,681.18,North
+2024-01-01,Pants,Clothing,41,4012.51,Northeast
+2024-01-01,Blender,Appliances,47,2456.41,Northwest
+2024-01-01,Cooler,Electronics,14,761.47,Central
+2024-01-01,Jacket,Clothing,30,3426.9,Central
+2024-01-02,Coffee Maker,Appliances,50,5688.6,South
+2024-01-02,Bookshelf,Furniture,1,105.02,Northwest
+2024-01-02,Cabinet,Furniture,13,3823.4,Northeast
+2024-01-02,Pants,Clothing,46,4427.48,Southeast
+2024-01-02,Bed,Furniture,34,13795.68,South
+2024-01-03,Blanket,Furniture,29,1582.91,East
+2024-01-03,Laptop,Electronics,8,11933.67,Northeast
+2024-01-03,External SSD,Electronics,24,1417.62,Southeast
+2024-01-03,Mouse,Electronics,43,1559.98,Northwest
+2024-01-03,Desk Lamp,Electronics,13,294.95,Central
+2024-01-03,Oven,Appliances,1,446.75,South
+2024-01-04,Hat,Clothing,9,256.85,Northeast
+2024-01-04,Gaming Chair,Electronics,20,8924.44,North
+2024-01-04,RAM,Electronics,3,565.16,West
+2024-01-04,Microwave,Appliances,8,1463.11,Northwest
+2024-01-04,HDMI Cable,Electronics,38,381.29,Central
+2024-01-04,Screen Protector,Mobile,43,778.18,West
+2024-01-04,Headphones,Electronics,11,1667.64,West
+2024-01-04,Power Bank,Mobile,6,383.8,South
+2024-01-04,Motherboard,Electronics,31,6484.98,North
+2024-01-04,Blanket,Furniture,14,951.68,South
+2024-01-05,Webcam,Electronics,20,1174.69,Northeast
+2024-01-05,Refrigerator,Appliances,38,51997.34,North
+2024-01-05,Shoes,Clothing,23,1704.59,South
+2024-01-05,Blanket,Furniture,50,3670.69,Northeast
+2024-01-05,USB Cable,Electronics,43,496.69,Southeast
+2024-01-06,Pants,Clothing,48,3469.46,West
+2024-01-06,Phone Case,Mobile,23,896.45,Northwest
+2024-01-06,Dishwasher,Appliances,31,35005.58,North
+2024-01-06,Microphone,Electronics,43,4855.21,West
+2024-01-06,Mattress,Furniture,38,17257.78,West
+2024-01-06,Motherboard,Electronics,9,2448.41,North
+2024-01-06,Socks,Clothing,1,16.19,Central
+2024-01-06,Dishwasher,Appliances,34,31135.08,West
+2024-01-07,Blanket,Furniture,40,1819.83,Northeast
+2024-01-07,Jeans,Clothing,48,5249.51,South
+2024-01-07,Toaster,Appliances,33,965.07,Southeast
+2024-01-07,Blender,Appliances,34,4141.19,Northwest
+2024-01-07,Hat,Clothing,30,1293.84,Northeast
+2024-01-07,Gaming Chair,Electronics,27,11898.1,Northeast
+2024-01-07,Microphone,Electronics,23,5692.41,North
+2024-01-07,Charger,Mobile,32,915.42,West
+2024-01-07,Jacket,Clothing,4,641.72,East
+2024-01-08,Mouse,Electronics,8,328.69,Southeast
+2024-01-08,Keyboard,Electronics,26,2408.31,Southeast
+2024-01-08,Cabinet,Furniture,15,3046.47,Central
+2024-01-09,Table,Furniture,26,14148.16,Northeast
+2024-01-09,Case,Electronics,21,1288.04,North
+2024-01-09,Phone Case,Mobile,18,278.28,North
+2024-01-09,Case,Electronics,49,3056.36,Northwest
+2024-01-09,Blanket,Furniture,42,2127.61,West
+2024-01-09,Gaming Chair,Electronics,2,976.88,Northeast
+2024-01-09,Underwear,Clothing,18,522.07,North
+2024-01-09,Mattress,Furniture,47,18423.45,Northeast
+2024-01-09,Smart Watch,Mobile,22,10386.96,Central
+2024-01-09,Dishwasher,Appliances,5,4056.62,Northeast
+2024-01-09,Sweater,Clothing,23,2109.84,Central
+2024-01-09,Pants,Clothing,49,4757.83,South
+2024-01-10,Hat,Clothing,42,630.42,West
+2024-01-10,Cabinet,Furniture,6,2562.74,North
+2024-01-10,Mattress,Furniture,22,17788.87,West
+2024-01-10,Blender,Appliances,6,499.52,West
+2024-01-10,Microphone,Electronics,31,5574.83,Northeast
+2024-01-10,Charger,Mobile,6,253.83,Northwest
+2024-01-10,Refrigerator,Appliances,15,11990.39,Southeast
+2024-01-11,Shoes,Clothing,44,3297.93,West
+2024-01-11,Shirt,Clothing,21,842.02,East
+2024-01-11,T-Shirt,Clothing,30,1140.87,North
+2024-01-11,Socks,Clothing,14,239.49,South
+2024-01-11,Motherboard,Electronics,29,7459.4,Southeast
+2024-01-11,Coffee Maker,Appliances,35,2897.35,Southeast
+2024-01-11,USB Cable,Electronics,39,224.75,Northeast
+2024-01-11,Shirt,Clothing,29,882.07,East
+2024-01-11,Sofa,Furniture,28,28871.41,North
+2024-01-12,Graphics Card,Electronics,39,9081.9,Northwest
+2024-01-12,RAM,Electronics,30,2685.3,Southeast
+2024-01-12,Blender,Appliances,22,2152.9,East
+2024-01-12,Screen Protector,Mobile,1,12.8,Northwest
+2024-01-12,Phone,Mobile,50,46211.4,South
+2024-01-12,Phone Case,Mobile,23,1083.8,South
+2024-01-12,Bed,Furniture,49,32598.59,Northwest
+2024-01-12,Phone,Mobile,24,11461.32,Northwest
+2024-01-12,Laptop,Electronics,43,53880.68,East
+2024-01-12,Speaker,Electronics,2,256.37,Central
+2024-01-12,Cooler,Electronics,30,2346.8,Central
+2024-01-12,Kettle,Appliances,13,972.77,West
+2024-01-12,Earbuds,Mobile,22,3667.82,South
+2024-01-13,Speaker,Electronics,12,689.12,Northwest
+2024-01-13,USB Cable,Electronics,19,224.94,Northeast
+2024-01-13,Mattress,Furniture,33,31137.84,Southeast
+2024-01-13,Socks,Clothing,10,58.18,Southeast
+2024-01-13,Case,Electronics,40,3207.05,Northwest
+2024-01-13,Hat,Clothing,18,502.06,West
+2024-01-13,Cabinet,Furniture,38,12123.0,Northwest
+2024-01-14,Smart Watch,Mobile,48,17688.53,Central
+2024-01-14,Microphone,Electronics,34,2666.02,Northwest
+2024-01-14,HDMI Cable,Electronics,26,418.49,Southeast
+2024-01-14,External SSD,Electronics,36,2507.47,Central
+2024-01-14,Kettle,Appliances,30,1396.73,West
+2024-01-14,Headphones,Electronics,18,1098.39,Northwest
+2024-01-14,Dishwasher,Appliances,9,10744.9,East
+2024-01-14,Cabinet,Furniture,45,21619.41,Central
+2024-01-14,Earbuds,Mobile,4,602.62,South
+2024-01-15,Jeans,Clothing,33,2609.63,East
+2024-01-15,Blender,Appliances,41,3662.29,East
+2024-01-15,Microphone,Electronics,15,3809.2,Central
+2024-01-15,Power Supply,Electronics,5,657.39,Northwest
+2024-01-15,Mouse,Electronics,24,1218.84,Northwest
+2024-01-15,Tablet,Mobile,3,861.67,Northeast
+2024-01-15,Graphics Card,Electronics,21,9254.68,North
+2024-01-15,Oven,Appliances,37,23494.2,Central
+2024-01-16,HDMI Cable,Electronics,27,438.27,Southeast
+2024-01-16,Phone,Mobile,25,23082.04,Central
+2024-01-16,Bed,Furniture,35,21870.38,Northeast
+2024-01-16,T-Shirt,Clothing,16,356.67,East
+2024-01-16,Cabinet,Furniture,41,15890.06,East
+2024-01-16,RAM,Electronics,12,1393.03,Central
+2024-01-17,Cooler,Electronics,9,741.97,Northwest
+2024-01-17,Jacket,Clothing,39,7781.85,Northwest
+2024-01-17,Bookshelf,Furniture,5,1979.21,North
+2024-01-17,Phone,Mobile,45,23018.99,Southeast
+2024-01-17,Webcam,Electronics,10,1209.06,Central
+2024-01-17,Sofa,Furniture,50,43101.95,Southeast
+2024-01-17,Bed,Furniture,35,19234.88,South
+2024-01-17,Cabinet,Furniture,20,8959.53,Central
+2024-01-17,HDMI Cable,Electronics,18,272.86,Northwest
+2024-01-17,Socks,Clothing,5,68.28,Southeast
+2024-01-17,RAM,Electronics,15,846.32,Northeast
+2024-01-17,Pants,Clothing,41,2439.84,Central
+2024-01-17,External SSD,Electronics,14,2076.42,Northeast
+2024-01-18,Blender,Appliances,23,2460.49,Central
+2024-01-18,Headphones,Electronics,36,5376.19,Northwest
+2024-01-18,Gaming Chair,Electronics,19,4429.03,East
+2024-01-18,Jacket,Clothing,44,7222.21,West
+2024-01-18,Desk,Furniture,25,18099.97,North
+2024-01-18,Kettle,Appliances,44,2637.55,Northwest
+2024-01-18,Coffee Maker,Appliances,9,1340.66,East
+2024-01-18,Monitor,Electronics,50,14340.82,West
+2024-01-18,Bookshelf,Furniture,1,215.33,West
+2024-01-18,Blender,Appliances,49,1652.46,North
+2024-01-19,Screen Protector,Mobile,15,90.17,North
+2024-01-19,Bed,Furniture,50,37835.28,Central
+2024-01-19,Laptop,Electronics,42,48047.32,West
+2024-01-19,Keyboard,Electronics,20,2190.09,East
+2024-01-19,Hat,Clothing,38,704.37,Northwest
+2024-01-19,Sweater,Clothing,46,3068.51,East
+2024-01-19,Power Bank,Mobile,2,113.48,East
+2024-01-19,Power Supply,Electronics,25,2707.21,North
+2024-01-19,Laptop,Electronics,40,59956.72,Southeast
+2024-01-20,Earbuds,Mobile,35,6680.71,Central
+2024-01-20,Kettle,Appliances,49,1005.02,North
+2024-01-20,Charger,Mobile,31,652.6,Northeast
+2024-01-20,Motherboard,Electronics,21,3157.69,Northeast
+2024-01-20,Coffee Maker,Appliances,21,1808.81,Southeast
+2024-01-20,Desktop,Electronics,13,14839.47,South
+2024-01-20,Power Bank,Mobile,8,538.98,Southeast
+2024-01-20,HDMI Cable,Electronics,27,422.78,North
+2024-01-21,Earbuds,Mobile,40,2066.24,Southeast
+2024-01-21,Tablet,Mobile,6,2659.0,North
+2024-01-21,Oven,Appliances,9,6613.0,Central
+2024-01-21,Hat,Clothing,30,1043.25,Northwest
+2024-01-21,Jacket,Clothing,30,4674.16,Central
+2024-01-21,Desktop,Electronics,14,15413.69,Central
+2024-01-21,Jeans,Clothing,24,2137.47,North
+2024-01-21,Table,Furniture,10,4145.56,West
+2024-01-21,Pillow,Furniture,16,1166.88,North
+2024-01-21,Refrigerator,Appliances,7,7491.33,West
+2024-01-22,Cooler,Electronics,42,3499.98,Northwest
+2024-01-22,Socks,Clothing,50,773.4,Northwest
+2024-01-22,Headphones,Electronics,7,1653.03,Northwest
+2024-01-22,Case,Electronics,6,769.26,Northeast
+2024-01-22,Motherboard,Electronics,32,8529.69,Northwest
+2024-01-22,Webcam,Electronics,23,1550.82,East
+2024-01-22,Speaker,Electronics,40,2255.87,Central
+2024-01-22,Cabinet,Furniture,45,18275.63,North
+2024-01-23,Socks,Clothing,12,236.7,South
+2024-01-23,Kettle,Appliances,29,606.44,Northeast
+2024-01-23,Sweater,Clothing,50,4435.67,South
+2024-01-23,T-Shirt,Clothing,16,414.27,South
+2024-01-23,Toaster,Appliances,43,1756.36,Northeast
+2024-01-23,Screen Protector,Mobile,27,415.87,Central
+2024-01-23,T-Shirt,Clothing,12,391.4,Northwest
+2024-01-23,Power Supply,Electronics,16,2601.14,Southeast
+2024-01-23,Motherboard,Electronics,41,13222.74,Southeast
+2024-01-23,Sweater,Clothing,24,1553.57,Central
+2024-01-24,Hat,Clothing,12,227.81,Northeast
+2024-01-24,Bookshelf,Furniture,4,722.15,West
+2024-01-24,Desktop,Electronics,43,33664.78,Southeast
+2024-01-24,USB Cable,Electronics,32,264.25,North
+2024-01-24,Case,Electronics,25,898.95,North
+2024-01-24,Bed,Furniture,37,41969.3,Northwest
+2024-01-24,Charger,Mobile,41,1568.05,Southeast
+2024-01-24,Pants,Clothing,46,1925.54,Southeast
+2024-01-24,Keyboard,Electronics,39,4438.52,West
+2024-01-24,Pillow,Furniture,25,518.51,Northeast
+2024-01-24,Graphics Card,Electronics,49,29565.08,North
+2024-01-24,Keyboard,Electronics,39,2803.35,West
+2024-01-24,External SSD,Electronics,38,7048.56,East
+2024-01-24,Webcam,Electronics,41,3015.68,Southeast
+2024-01-25,Desk,Furniture,16,5042.55,East
+2024-01-25,Jeans,Clothing,38,2070.13,East
+2024-01-25,Shirt,Clothing,21,978.69,Northwest
+2024-01-25,Desk,Furniture,15,4902.75,North
+2024-01-25,Desk,Furniture,31,13437.69,West
+2024-01-26,Microwave,Appliances,35,9660.95,Central
+2024-01-26,Table,Furniture,43,14392.35,North
+2024-01-26,Microwave,Appliances,42,9667.7,South
+2024-01-26,Case,Electronics,13,885.75,South
+2024-01-26,Oven,Appliances,10,2825.6,Northeast
+2024-01-26,Kettle,Appliances,14,1091.52,East
+2024-01-26,Coffee Maker,Appliances,41,3347.8,West
+2024-01-26,Pillow,Furniture,29,1620.15,North
+2024-01-26,Mouse,Electronics,33,1185.1,West
+2024-01-27,Speaker,Electronics,31,3820.25,South
+2024-01-27,HDMI Cable,Electronics,36,533.75,East
+2024-01-27,Headphones,Electronics,43,5328.13,Northeast
+2024-01-27,External SSD,Electronics,42,7245.55,Northwest
+2024-01-27,Shoes,Clothing,40,4997.91,Northwest
+2024-01-27,Blanket,Furniture,48,3614.32,West
+2024-01-27,Mouse,Electronics,11,806.03,Northeast
+2024-01-28,Phone,Mobile,32,11500.92,Northeast
+2024-01-28,Power Bank,Mobile,18,765.73,East
+2024-01-28,Pants,Clothing,30,2980.38,Central
+2024-01-28,Chair,Furniture,5,1848.9,Southeast
+2024-01-28,Sweater,Clothing,7,294.64,Central
+2024-01-28,Case,Electronics,39,1574.84,Central
+2024-01-28,Cabinet,Furniture,33,8348.61,South
+2024-01-28,T-Shirt,Clothing,17,564.19,East
+2024-01-28,USB Cable,Electronics,14,198.93,Northwest
+2024-01-28,Microphone,Electronics,2,481.22,East
+2024-01-28,Webcam,Electronics,39,4910.14,Southeast
+2024-01-28,Shoes,Clothing,8,1010.08,Northeast
+2024-01-28,Shirt,Clothing,20,826.2,South
+2024-01-28,Charger,Mobile,4,114.03,North
+2024-01-29,Gaming Chair,Electronics,26,8425.76,East
+2024-01-29,Case,Electronics,11,928.92,Northwest
+2024-01-29,USB Cable,Electronics,44,498.63,East
+2024-01-29,Oven,Appliances,10,7696.68,Southeast
+2024-01-29,Speaker,Electronics,3,515.95,South
+2024-01-30,Cooler,Electronics,31,1832.96,Northwest
+2024-01-30,Desktop,Electronics,42,27955.94,Northeast
+2024-01-30,Jeans,Clothing,10,1027.91,South
+2024-01-30,Mouse,Electronics,47,2194.39,West
+2024-01-30,Jeans,Clothing,42,4546.5,South
+2024-01-30,Toaster,Appliances,35,2407.61,Central
+2024-01-30,Jeans,Clothing,20,1932.51,North
+2024-01-30,Graphics Card,Electronics,3,2145.64,North
+2024-01-31,Headphones,Electronics,43,3551.04,Southeast
+2024-01-31,Dishwasher,Appliances,48,44266.72,West
+2024-01-31,Motherboard,Electronics,8,1239.31,Central
+2024-01-31,Refrigerator,Appliances,14,16597.97,Northwest
+2024-01-31,Jacket,Clothing,28,3177.82,North
+2024-01-31,Case,Electronics,7,628.1,South
+2024-01-31,Power Supply,Electronics,11,1001.5,East
+2024-01-31,Gaming Chair,Electronics,34,8098.94,Northwest
+2024-01-31,Chair,Furniture,7,1547.22,North
+2024-01-31,Power Bank,Mobile,16,1210.4,Southeast
+2024-02-01,Desk Lamp,Electronics,16,1331.68,East
+2024-02-01,Shoes,Clothing,37,3980.81,West
+2024-02-01,Blender,Appliances,25,3063.68,West
+2024-02-01,Case,Electronics,49,2412.64,South
+2024-02-01,Power Supply,Electronics,16,1138.11,Southeast
+2024-02-01,Jeans,Clothing,30,2901.91,East
+2024-02-01,Hat,Clothing,25,1141.98,North
+2024-02-02,Keyboard,Electronics,31,4462.93,Northwest
+2024-02-02,Smart Watch,Mobile,42,16155.7,South
+2024-02-02,Table,Furniture,7,3847.73,Northeast
+2024-02-02,Gaming Chair,Electronics,45,21807.43,North
+2024-02-02,Sofa,Furniture,37,53567.01,South
+2024-02-02,Speaker,Electronics,43,5679.99,Northwest
+2024-02-02,Screen Protector,Mobile,47,240.78,Southeast
+2024-02-02,Monitor,Electronics,6,2978.9,Northwest
+2024-02-03,External SSD,Electronics,38,4776.41,North
+2024-02-03,Microwave,Appliances,11,2836.39,Central
+2024-02-03,Gaming Chair,Electronics,13,3017.52,North
+2024-02-03,Sofa,Furniture,8,11100.75,Southeast
+2024-02-03,Mattress,Furniture,34,26383.59,West
+2024-02-03,Speaker,Electronics,13,1545.19,North
+2024-02-03,Motherboard,Electronics,46,9044.93,East
+2024-02-04,Phone,Mobile,5,3571.64,Northwest
+2024-02-04,Headphones,Electronics,42,10562.39,East
+2024-02-04,Sofa,Furniture,32,28650.2,West
+2024-02-04,Tablet,Mobile,5,2591.52,East
+2024-02-04,Blender,Appliances,24,3579.43,Northwest
+2024-02-04,Pants,Clothing,23,1955.16,Southeast
+2024-02-04,Refrigerator,Appliances,32,30401.64,Northeast
+2024-02-04,Shoes,Clothing,31,3208.81,Central
+2024-02-05,Speaker,Electronics,16,618.08,West
+2024-02-05,Laptop,Electronics,27,33939.67,East
+2024-02-05,Oven,Appliances,5,3121.51,West
+2024-02-05,Phone Case,Mobile,11,328.42,North
+2024-02-05,USB Cable,Electronics,19,335.66,South
+2024-02-05,Charger,Mobile,42,1361.14,North
+2024-02-05,Webcam,Electronics,4,518.58,North
+2024-02-05,Underwear,Clothing,33,804.39,South
+2024-02-05,Sweater,Clothing,15,669.38,East
+2024-02-05,Coffee Maker,Appliances,38,6061.05,South
+2024-02-05,Desk,Furniture,26,10104.41,Northeast
+2024-02-05,Power Supply,Electronics,18,2231.43,Central
+2024-02-05,Dishwasher,Appliances,12,12382.64,Northwest
+2024-02-05,Table,Furniture,6,3013.88,Southeast
+2024-02-06,Desk Lamp,Electronics,33,766.27,Northwest
+2024-02-06,Jeans,Clothing,6,603.51,Southeast
+2024-02-06,Bed,Furniture,5,2567.5,Northwest
+2024-02-06,Phone Case,Mobile,25,833.0,North
+2024-02-06,Chair,Furniture,31,11536.76,North
+2024-02-06,Blanket,Furniture,3,173.12,Northwest
+2024-02-06,HDMI Cable,Electronics,15,277.31,East
+2024-02-06,Webcam,Electronics,1,98.73,North
+2024-02-06,Toaster,Appliances,4,214.97,Southeast
+2024-02-06,Smart Watch,Mobile,27,6889.73,West
+2024-02-06,Screen Protector,Mobile,6,33.95,Central
+2024-02-06,Blender,Appliances,34,4531.53,South
+2024-02-07,Pillow,Furniture,32,2085.3,East
+2024-02-07,Desktop,Electronics,16,19045.79,North
+2024-02-07,T-Shirt,Clothing,3,68.12,East
+2024-02-07,Dishwasher,Appliances,41,42893.12,East
+2024-02-07,Microwave,Appliances,18,4890.26,North
+2024-02-07,Bed,Furniture,7,5951.03,South
+2024-02-07,Tablet,Mobile,21,5054.46,East
+2024-02-07,Charger,Mobile,49,1281.55,North
+2024-02-07,Microphone,Electronics,12,929.78,Central
+2024-02-07,Oven,Appliances,45,30177.65,North
+2024-02-08,Earbuds,Mobile,32,3010.59,Southeast
+2024-02-08,Cooler,Electronics,12,964.24,Northwest
+2024-02-08,Pillow,Furniture,21,1593.52,East
+2024-02-08,Sweater,Clothing,25,1923.36,Central
+2024-02-08,Sofa,Furniture,12,11058.25,North
+2024-02-08,Gaming Chair,Electronics,36,15873.65,North
+2024-02-09,Cooler,Electronics,1,61.87,North
+2024-02-09,Phone Case,Mobile,9,265.62,South
+2024-02-09,Coffee Maker,Appliances,8,1287.5,South
+2024-02-09,T-Shirt,Clothing,39,906.05,Central
+2024-02-09,Underwear,Clothing,32,714.02,South
+2024-02-09,T-Shirt,Clothing,17,618.37,Central
+2024-02-10,Kettle,Appliances,37,2874.54,Northeast
+2024-02-10,Table,Furniture,32,17528.52,Southeast
+2024-02-10,Speaker,Electronics,38,4258.08,Northwest
+2024-02-10,Bookshelf,Furniture,9,2916.24,West
+2024-02-10,RAM,Electronics,37,5591.37,South
+2024-02-10,Pants,Clothing,30,1617.34,Northwest
+2024-02-10,Desktop,Electronics,44,35690.51,Northeast
+2024-02-10,Power Bank,Mobile,29,1181.32,Southeast
+2024-02-10,Headphones,Electronics,50,7492.92,Central
+2024-02-11,Pants,Clothing,45,3137.77,Northwest
+2024-02-11,Keyboard,Electronics,17,1660.12,West
+2024-02-11,Bookshelf,Furniture,39,7692.63,North
+2024-02-11,Jeans,Clothing,18,2146.8,Northwest
+2024-02-11,Microphone,Electronics,37,3208.5,North
+2024-02-11,Power Bank,Mobile,36,2752.32,Southeast
+2024-02-11,Charger,Mobile,36,1726.71,South
+2024-02-12,Shirt,Clothing,8,377.69,Southeast
+2024-02-12,Power Bank,Mobile,34,1154.51,West
+2024-02-12,Chair,Furniture,46,14846.65,East
+2024-02-12,Blanket,Furniture,46,3103.72,East
+2024-02-12,Webcam,Electronics,45,5272.62,East
+2024-02-12,Toaster,Appliances,2,67.41,Northwest
+2024-02-12,RAM,Electronics,34,6587.02,East
+2024-02-13,Phone Case,Mobile,36,597.61,Northeast
+2024-02-13,Desktop,Electronics,43,35006.5,North
+2024-02-13,Bed,Furniture,6,4376.14,West
+2024-02-13,Laptop,Electronics,16,21599.39,Northeast
+2024-02-14,Dishwasher,Appliances,19,13075.26,North
+2024-02-14,RAM,Electronics,32,2467.88,West
+2024-02-14,Jeans,Clothing,45,3882.35,South
+2024-02-14,Blanket,Furniture,39,1661.4,North
+2024-02-14,Gaming Chair,Electronics,38,11225.25,West
+2024-02-14,Desktop,Electronics,29,27073.6,Northwest
+2024-02-14,Jacket,Clothing,47,7643.13,Central
+2024-02-14,Blanket,Furniture,26,1777.25,Central
+2024-02-15,Sofa,Furniture,23,16527.02,Northeast
+2024-02-15,Shirt,Clothing,1,38.08,North
+2024-02-15,Sofa,Furniture,35,35116.52,North
+2024-02-15,Blender,Appliances,27,1808.12,North
+2024-02-15,Sweater,Clothing,45,2677.22,Southeast
+2024-02-15,Monitor,Electronics,32,8188.59,Northwest
+2024-02-15,Toaster,Appliances,4,213.78,Southeast
+2024-02-16,Gaming Chair,Electronics,11,2985.09,East
+2024-02-16,Blanket,Furniture,11,887.62,Central
+2024-02-16,Toaster,Appliances,5,314.81,East
+2024-02-16,Case,Electronics,31,1405.95,South
+2024-02-16,Desk Lamp,Electronics,25,2156.5,Central
+2024-02-16,Blender,Appliances,32,2237.3,South
+2024-02-17,Hat,Clothing,24,516.73,Northwest
+2024-02-17,Power Supply,Electronics,29,5292.89,Central
+2024-02-17,Pillow,Furniture,49,1886.35,South
+2024-02-17,Bookshelf,Furniture,34,3745.0,North
+2024-02-17,T-Shirt,Clothing,36,1039.27,Southeast
+2024-02-17,T-Shirt,Clothing,37,1015.8,North
+2024-02-17,External SSD,Electronics,43,4194.29,North
+2024-02-17,Mouse,Electronics,44,3155.2,South
+2024-02-17,Keyboard,Electronics,31,1903.67,Central
+2024-02-17,Chair,Furniture,24,9055.04,Southeast
+2024-02-18,Chair,Furniture,16,5130.06,West
+2024-02-18,Desktop,Electronics,41,42646.64,North
+2024-02-18,Case,Electronics,50,1786.82,Northeast
+2024-02-18,Coffee Maker,Appliances,32,6380.65,East
+2024-02-18,Charger,Mobile,3,130.0,South
+2024-02-18,Webcam,Electronics,6,657.19,Southeast
+2024-02-18,Screen Protector,Mobile,7,114.5,Northeast
+2024-02-19,Speaker,Electronics,37,5146.62,North
+2024-02-19,Webcam,Electronics,40,2937.13,South
+2024-02-19,Shirt,Clothing,7,186.87,South
+2024-02-19,Kettle,Appliances,36,2175.66,Northwest
+2024-02-19,Gaming Chair,Electronics,28,9928.36,Northwest
+2024-02-20,Sweater,Clothing,25,1006.68,Northwest
+2024-02-20,RAM,Electronics,47,2881.57,South
+2024-02-21,Monitor,Electronics,20,7092.3,Northeast
+2024-02-21,Laptop,Electronics,1,1121.05,Central
+2024-02-21,Toaster,Appliances,22,1386.36,East
+2024-02-21,Oven,Appliances,16,3517.48,North
+2024-02-21,Power Supply,Electronics,19,2897.66,East
+2024-02-21,Jeans,Clothing,17,1235.65,South
+2024-02-21,Microphone,Electronics,10,764.14,South
+2024-02-21,Kettle,Appliances,36,2724.97,Central
+2024-02-22,Pants,Clothing,29,2634.01,South
+2024-02-22,Pants,Clothing,21,1925.47,East
+2024-02-22,HDMI Cable,Electronics,6,96.3,Central
+2024-02-22,Bookshelf,Furniture,36,8816.68,Central
+2024-02-22,Microphone,Electronics,16,2958.54,Northeast
+2024-02-22,Hat,Clothing,27,448.2,Northeast
+2024-02-22,Cooler,Electronics,50,1548.94,West
+2024-02-22,Desk,Furniture,48,20882.43,West
+2024-02-22,Coffee Maker,Appliances,23,3958.39,North
+2024-02-22,Desk,Furniture,25,12045.11,Northeast
+2024-02-23,Coffee Maker,Appliances,37,6092.88,East
+2024-02-23,Toaster,Appliances,46,2604.32,Northeast
+2024-02-23,T-Shirt,Clothing,22,669.25,Central
+2024-02-23,Screen Protector,Mobile,14,214.37,Northeast
+2024-02-23,Motherboard,Electronics,23,4070.94,South
+2024-02-23,Underwear,Clothing,24,650.08,Northeast
+2024-02-23,Kettle,Appliances,28,1830.55,Northwest
+2024-02-23,Smart Watch,Mobile,45,21502.31,Central
+2024-02-24,Phone,Mobile,27,19743.84,East
+2024-02-24,Coffee Maker,Appliances,38,2888.65,North
+2024-02-24,External SSD,Electronics,49,7622.63,Central
+2024-02-24,Pants,Clothing,13,696.7,Southeast
+2024-02-24,Smart Watch,Mobile,22,6078.14,Northeast
+2024-02-24,Jeans,Clothing,22,2272.29,Northeast
+2024-02-25,Webcam,Electronics,41,3366.08,West
+2024-02-25,Keyboard,Electronics,48,3905.3,North
+2024-02-25,Microphone,Electronics,19,2085.55,Northeast
+2024-02-25,Coffee Maker,Appliances,36,6247.92,Southeast
+2024-02-25,Graphics Card,Electronics,36,11494.89,North
+2024-02-26,Power Bank,Mobile,49,1781.88,West
+2024-02-26,Case,Electronics,18,1025.66,North
+2024-02-26,External SSD,Electronics,2,331.46,Northeast
+2024-02-26,Mouse,Electronics,38,1864.45,Southeast
+2024-02-26,Case,Electronics,41,5917.58,East
+2024-02-26,Kettle,Appliances,23,2172.07,Southeast
+2024-02-26,Earbuds,Mobile,43,6003.84,Southeast
+2024-02-26,Gaming Chair,Electronics,33,8177.77,South
+2024-02-26,Microphone,Electronics,26,3719.56,West
+2024-02-26,Bed,Furniture,23,26407.79,Northwest
+2024-02-26,USB Cable,Electronics,44,702.84,North
+2024-02-26,Mouse,Electronics,28,1126.74,West
+2024-02-26,Power Bank,Mobile,2,81.72,East
+2024-02-26,Phone,Mobile,40,19017.55,West
+2024-02-27,Microphone,Electronics,44,10347.35,South
+2024-02-27,Oven,Appliances,49,10468.42,North
+2024-02-27,Phone Case,Mobile,20,303.14,Northeast
+2024-02-27,Shirt,Clothing,18,722.57,Northeast
+2024-02-27,Dishwasher,Appliances,36,24934.32,Northwest
+2024-02-27,Tablet,Mobile,18,12527.62,East
+2024-02-27,Desk,Furniture,23,15877.87,Northwest
+2024-02-27,Shoes,Clothing,6,450.36,Central
+2024-02-27,USB Cable,Electronics,24,261.15,Central
+2024-02-28,Underwear,Clothing,30,539.24,Northeast
+2024-02-28,Sofa,Furniture,19,24125.25,Northeast
+2024-02-28,Motherboard,Electronics,23,3370.34,Southeast
+2024-02-28,Sweater,Clothing,7,370.07,East
+2024-02-28,Table,Furniture,5,1794.14,Northeast
+2024-02-29,Bookshelf,Furniture,13,2053.17,Northwest
+2024-02-29,Pillow,Furniture,15,918.64,West
+2024-02-29,Oven,Appliances,22,12388.23,South
+2024-02-29,Refrigerator,Appliances,45,82951.51,Northwest
+2024-03-01,Cabinet,Furniture,25,5465.55,Northwest
+2024-03-01,Screen Protector,Mobile,27,510.26,Central
+2024-03-01,Earbuds,Mobile,15,3774.61,Central
+2024-03-01,Power Bank,Mobile,13,650.55,Northwest
+2024-03-01,Cooler,Electronics,4,156.3,South
+2024-03-01,Dishwasher,Appliances,12,13261.6,East
+2024-03-01,External SSD,Electronics,30,3345.68,Southeast
+2024-03-01,Mattress,Furniture,2,843.94,Northeast
+2024-03-01,Keyboard,Electronics,30,2420.42,South
+2024-03-01,Sweater,Clothing,22,1278.57,Central
+2024-03-01,Blender,Appliances,24,1822.62,Northeast
+2024-03-01,Underwear,Clothing,4,117.8,Southeast
+2024-03-01,Refrigerator,Appliances,7,13799.74,Northeast
+2024-03-02,Tablet,Mobile,3,1828.59,West
+2024-03-02,Keyboard,Electronics,43,3524.22,Northwest
+2024-03-02,Screen Protector,Mobile,19,217.33,East
+2024-03-02,Bed,Furniture,6,5913.16,South
+2024-03-02,Charger,Mobile,34,911.51,West
+2024-03-02,Keyboard,Electronics,6,854.78,West
+2024-03-02,Phone Case,Mobile,42,1615.9,Southeast
+2024-03-02,Power Supply,Electronics,49,9773.48,North
+2024-03-02,Chair,Furniture,34,12464.99,South
+2024-03-02,Bed,Furniture,15,16272.16,Northwest
+2024-03-03,Blanket,Furniture,19,588.27,East
+2024-03-03,USB Cable,Electronics,27,144.68,North
+2024-03-03,Laptop,Electronics,38,51240.44,North
+2024-03-03,Coffee Maker,Appliances,50,5941.36,Northeast
+2024-03-03,Microphone,Electronics,5,1287.27,West
+2024-03-03,Bed,Furniture,44,31001.77,East
+2024-03-03,Monitor,Electronics,13,2673.86,South
+2024-03-03,Mattress,Furniture,9,3329.8,North
+2024-03-04,Coffee Maker,Appliances,32,2282.42,Northwest
+2024-03-04,Desk Lamp,Electronics,40,1287.62,North
+2024-03-04,Oven,Appliances,50,33330.25,Central
+2024-03-04,Power Supply,Electronics,15,2868.34,Central
+2024-03-04,Screen Protector,Mobile,6,54.12,South
+2024-03-04,Charger,Mobile,39,1426.75,Southeast
+2024-03-04,HDMI Cable,Electronics,6,117.97,Southeast
+2024-03-04,Sofa,Furniture,43,50580.71,Northeast
+2024-03-04,Motherboard,Electronics,28,7667.52,Northeast
+2024-03-04,Power Bank,Mobile,48,3204.81,Central
+2024-03-04,Power Supply,Electronics,45,2979.65,East
+2024-03-05,Monitor,Electronics,46,15237.5,Southeast
+2024-03-05,Shirt,Clothing,50,1808.35,South
+2024-03-05,Desk Lamp,Electronics,12,884.14,South
+2024-03-05,Speaker,Electronics,47,6048.96,West
+2024-03-05,Case,Electronics,43,6120.7,Southeast
+2024-03-05,Cabinet,Furniture,37,16189.97,South
+2024-03-06,Hat,Clothing,29,1409.22,Southeast
+2024-03-06,Laptop,Electronics,39,35966.96,South
+2024-03-06,Desk Lamp,Electronics,39,1256.95,East
+2024-03-06,Blender,Appliances,39,5825.1,North
+2024-03-06,Tablet,Mobile,30,19916.72,Northwest
+2024-03-06,Case,Electronics,8,247.42,Northeast
+2024-03-06,Jeans,Clothing,43,2178.29,Central
+2024-03-07,Gaming Chair,Electronics,3,697.56,Central
+2024-03-07,Keyboard,Electronics,38,2542.5,Southeast
+2024-03-07,Gaming Chair,Electronics,16,4493.16,Central
+2024-03-07,Screen Protector,Mobile,14,279.24,Southeast
+2024-03-07,Pants,Clothing,39,3200.77,Central
+2024-03-07,Charger,Mobile,44,2045.37,East
+2024-03-07,Underwear,Clothing,29,655.53,Northwest
+2024-03-08,External SSD,Electronics,13,2278.13,West
+2024-03-08,Microwave,Appliances,28,3442.75,West
+2024-03-08,Screen Protector,Mobile,32,378.49,South
+2024-03-08,Table,Furniture,33,18646.69,East
+2024-03-08,Pants,Clothing,42,1882.39,Northwest
+2024-03-08,Refrigerator,Appliances,6,4418.54,South
+2024-03-08,Table,Furniture,17,9556.29,Southeast
+2024-03-08,Microphone,Electronics,38,9937.13,East
+2024-03-09,Charger,Mobile,50,2324.82,South
+2024-03-09,Hat,Clothing,22,959.39,North
+2024-03-09,USB Cable,Electronics,26,354.11,Northeast
+2024-03-09,Bed,Furniture,49,49245.74,North
+2024-03-09,Bed,Furniture,10,10017.88,North
+2024-03-10,Desk,Furniture,27,9275.91,Southeast
+2024-03-10,Pants,Clothing,18,1586.5,Central
+2024-03-11,Cabinet,Furniture,34,16381.94,North
+2024-03-11,Mattress,Furniture,23,15068.12,North
+2024-03-11,Case,Electronics,37,4114.2,South
+2024-03-11,Bookshelf,Furniture,2,501.33,Central
+2024-03-11,RAM,Electronics,13,942.36,Central
+2024-03-11,Graphics Card,Electronics,30,22734.85,West
+2024-03-12,Keyboard,Electronics,34,2915.27,Southeast
+2024-03-12,Blanket,Furniture,4,171.76,West
+2024-03-12,Phone Case,Mobile,30,1440.3,Northeast
+2024-03-12,Monitor,Electronics,14,4662.21,Northeast
+2024-03-12,Oven,Appliances,22,17383.77,North
+2024-03-12,RAM,Electronics,40,3685.83,East
+2024-03-12,Keyboard,Electronics,36,4115.94,West
+2024-03-12,Jeans,Clothing,34,3818.0,South
+2024-03-12,Toaster,Appliances,49,3349.11,North
+2024-03-12,Motherboard,Electronics,2,641.4,South
+2024-03-12,Sweater,Clothing,37,1771.13,East
+2024-03-12,Smart Watch,Mobile,14,4742.25,Southeast
+2024-03-13,Desk Lamp,Electronics,4,228.79,Central
+2024-03-13,Headphones,Electronics,29,5847.31,West
+2024-03-13,Sweater,Clothing,9,644.44,East
+2024-03-13,RAM,Electronics,3,160.67,West
+2024-03-13,Bed,Furniture,11,5026.94,West
+2024-03-13,Blanket,Furniture,30,2473.6,East
+2024-03-13,Jacket,Clothing,35,5524.63,Southeast
+2024-03-13,Desktop,Electronics,33,35695.77,Northeast
+2024-03-13,Pants,Clothing,37,3372.38,East
+2024-03-13,Blender,Appliances,21,847.69,Central
+2024-03-14,Mouse,Electronics,11,402.12,South
+2024-03-14,Sweater,Clothing,8,333.86,Southeast
+2024-03-14,Blender,Appliances,39,4923.04,West
+2024-03-14,Phone Case,Mobile,13,193.77,Southeast
+2024-03-14,Mouse,Electronics,40,2225.79,South
+2024-03-14,Chair,Furniture,9,2265.11,South
+2024-03-14,Microphone,Electronics,21,5470.42,East
+2024-03-14,Oven,Appliances,45,31439.98,Southeast
+2024-03-14,HDMI Cable,Electronics,37,763.04,Southeast
+2024-03-14,Power Supply,Electronics,50,5808.37,Northeast
+2024-03-14,Motherboard,Electronics,22,4310.08,Central
+2024-03-14,Pillow,Furniture,23,602.97,Central
+2024-03-15,Earbuds,Mobile,44,3659.39,Northeast
+2024-03-15,Monitor,Electronics,20,7407.77,North
+2024-03-15,Monitor,Electronics,46,10290.61,Central
+2024-03-15,Cabinet,Furniture,45,8424.58,Northeast
+2024-03-16,Shoes,Clothing,28,1807.6,Northeast
+2024-03-16,Graphics Card,Electronics,12,4576.33,Northeast
+2024-03-16,Bookshelf,Furniture,13,3510.14,Southeast
+2024-03-16,RAM,Electronics,26,2814.27,Northwest
+2024-03-16,Jeans,Clothing,31,1666.48,South
+2024-03-16,Case,Electronics,3,340.22,East
+2024-03-16,Blanket,Furniture,45,2978.45,North
+2024-03-16,Hat,Clothing,15,727.61,West
+2024-03-16,Shirt,Clothing,12,336.38,Northwest
+2024-03-17,Microphone,Electronics,50,12667.1,Northwest
+2024-03-17,Smart Watch,Mobile,9,2183.07,South
+2024-03-17,Mattress,Furniture,33,29033.48,Northeast
+2024-03-17,Desk Lamp,Electronics,4,356.37,Northeast
+2024-03-17,Blender,Appliances,46,2524.17,Central
+2024-03-17,Refrigerator,Appliances,43,78033.91,East
+2024-03-17,Jeans,Clothing,35,2679.23,Northwest
+2024-03-17,Oven,Appliances,10,4679.28,Southeast
+2024-03-17,Table,Furniture,43,15624.36,Central
+2024-03-17,Bed,Furniture,28,27278.52,Central
+2024-03-17,Blanket,Furniture,44,1732.56,South
+2024-03-17,Desktop,Electronics,21,22631.41,North
+2024-03-18,Headphones,Electronics,8,1516.15,West
+2024-03-18,Shirt,Clothing,11,542.23,East
+2024-03-18,Phone Case,Mobile,18,540.34,Northwest
+2024-03-18,Mouse,Electronics,34,878.12,West
+2024-03-18,Blender,Appliances,30,1499.35,Central
+2024-03-18,Cooler,Electronics,32,2837.08,Central
+2024-03-18,Power Bank,Mobile,30,1483.86,West
+2024-03-18,External SSD,Electronics,12,802.02,Central
+2024-03-18,Chair,Furniture,7,1193.08,South
+2024-03-18,HDMI Cable,Electronics,21,501.7,East
+2024-03-18,Shoes,Clothing,1,105.77,Northwest
+2024-03-19,RAM,Electronics,8,1265.54,West
+2024-03-19,Chair,Furniture,12,3523.99,South
+2024-03-19,Underwear,Clothing,24,365.07,Northeast
+2024-03-19,Bed,Furniture,40,46723.48,North
+2024-03-19,RAM,Electronics,33,6019.92,Northeast
+2024-03-19,Screen Protector,Mobile,28,516.1,Central
+2024-03-20,Jeans,Clothing,3,161.95,Southeast
+2024-03-20,Charger,Mobile,50,2397.46,Northeast
+2024-03-20,Shirt,Clothing,41,2014.31,East
+2024-03-20,Speaker,Electronics,20,2557.71,North
+2024-03-20,Pants,Clothing,1,50.88,Northeast
+2024-03-20,Phone,Mobile,21,9248.17,West
+2024-03-21,Toaster,Appliances,45,3146.13,Northwest
+2024-03-21,Desk,Furniture,7,5254.39,North
+2024-03-21,Underwear,Clothing,34,704.24,Northeast
+2024-03-21,Phone Case,Mobile,1,36.96,North
+2024-03-21,Screen Protector,Mobile,18,201.74,North
+2024-03-21,Webcam,Electronics,13,727.56,East
+2024-03-21,Bed,Furniture,37,26770.92,Northwest
+2024-03-21,Cabinet,Furniture,14,4929.25,North
+2024-03-21,Underwear,Clothing,27,642.87,East
+2024-03-21,Screen Protector,Mobile,13,105.89,West
+2024-03-21,Motherboard,Electronics,26,3620.85,Central
+2024-03-22,HDMI Cable,Electronics,40,822.74,Northwest
+2024-03-22,Charger,Mobile,26,509.0,Northeast
+2024-03-22,Cabinet,Furniture,29,11791.87,Northeast
+2024-03-22,Pillow,Furniture,2,147.49,West
+2024-03-22,Power Supply,Electronics,37,3919.09,South
+2024-03-22,RAM,Electronics,9,1279.29,Northeast
+2024-03-22,Mouse,Electronics,3,205.83,Central
+2024-03-23,Keyboard,Electronics,10,1086.61,North
+2024-03-23,Jacket,Clothing,25,2769.77,South
+2024-03-23,Case,Electronics,50,2036.76,North
+2024-03-23,Pillow,Furniture,5,137.86,East
+2024-03-23,Charger,Mobile,43,2100.58,South
+2024-03-23,Table,Furniture,27,15978.61,Northwest
+2024-03-24,Gaming Chair,Electronics,14,4290.26,Southeast
+2024-03-24,Earbuds,Mobile,50,11706.58,Southeast
+2024-03-24,Shirt,Clothing,18,528.2,Southeast
+2024-03-24,Desk Lamp,Electronics,8,327.91,Southeast
+2024-03-24,Refrigerator,Appliances,27,44449.47,Northeast
+2024-03-24,USB Cable,Electronics,46,401.27,South
+2024-03-24,HDMI Cable,Electronics,45,1063.62,Southeast
+2024-03-24,Refrigerator,Appliances,34,40366.02,Central
+2024-03-24,Chair,Furniture,30,5736.74,Southeast
+2024-03-24,Mattress,Furniture,50,44650.86,North
+2024-03-24,Dishwasher,Appliances,30,35399.56,Southeast
+2024-03-24,Graphics Card,Electronics,21,7070.05,South
+2024-03-25,Shoes,Clothing,40,3073.24,Southeast
+2024-03-25,Refrigerator,Appliances,21,30244.17,Northwest
+2024-03-25,Motherboard,Electronics,1,301.49,North
+2024-03-25,Webcam,Electronics,30,1082.3,North
+2024-03-25,Monitor,Electronics,5,1081.4,South
+2024-03-25,Shoes,Clothing,43,4968.53,East
+2024-03-25,Phone Case,Mobile,4,159.32,West
+2024-03-25,Charger,Mobile,31,1197.62,South
+2024-03-25,Bookshelf,Furniture,27,3204.35,Southeast
+2024-03-25,Sofa,Furniture,29,24903.51,Southeast
+2024-03-25,External SSD,Electronics,27,4173.65,West
+2024-03-25,Jacket,Clothing,45,7510.48,East
+2024-03-25,Graphics Card,Electronics,37,25900.65,Northwest
+2024-03-25,Screen Protector,Mobile,7,106.53,Southeast
+2024-03-25,Toaster,Appliances,5,390.88,Northeast
+2024-03-26,Blender,Appliances,41,6050.61,East
+2024-03-26,Kettle,Appliances,46,3710.92,West
+2024-03-26,Shoes,Clothing,27,3861.66,Northwest
+2024-03-26,Toaster,Appliances,18,925.76,Northwest
+2024-03-26,Power Bank,Mobile,33,3155.65,North
+2024-03-26,Cooler,Electronics,14,1329.62,North
+2024-03-26,Microphone,Electronics,23,4289.58,North
+2024-03-27,Graphics Card,Electronics,50,15043.98,Northeast
+2024-03-27,Smart Watch,Mobile,35,17480.81,East
+2024-03-27,Speaker,Electronics,25,1161.04,South
+2024-03-27,Earbuds,Mobile,31,7728.72,Southeast
+2024-03-27,Microwave,Appliances,37,8690.57,Central
+2024-03-27,Toaster,Appliances,16,503.93,South
+2024-03-27,Coffee Maker,Appliances,4,413.31,North
+2024-03-27,Underwear,Clothing,5,57.91,Northwest
+2024-03-28,Bookshelf,Furniture,31,7322.52,North
+2024-03-28,Graphics Card,Electronics,21,12427.97,Northeast
+2024-03-28,Screen Protector,Mobile,33,484.83,South
+2024-03-28,Case,Electronics,9,419.23,Southeast
+2024-03-28,Jeans,Clothing,15,1147.12,South
+2024-03-28,Headphones,Electronics,49,11839.72,Southeast
+2024-03-28,Earbuds,Mobile,3,224.68,North
+2024-03-28,Bookshelf,Furniture,12,3585.4,West
+2024-03-28,Sofa,Furniture,50,41366.9,Central
+2024-03-28,Underwear,Clothing,10,163.28,Southeast
+2024-03-29,HDMI Cable,Electronics,48,1061.99,Central
+2024-03-29,External SSD,Electronics,42,7464.19,Northwest
+2024-03-29,Mattress,Furniture,41,39910.23,Central
+2024-03-29,Headphones,Electronics,40,11864.22,North
+2024-03-29,Bookshelf,Furniture,43,9080.36,Northwest
+2024-03-29,Desk,Furniture,11,4654.34,Central
+2024-03-29,Pillow,Furniture,3,191.35,Central
+2024-03-29,Keyboard,Electronics,49,6465.7,Central
+2024-03-29,Chair,Furniture,39,3977.19,Southeast
+2024-03-30,Sweater,Clothing,47,4333.5,North
+2024-03-30,Bookshelf,Furniture,7,2440.49,Northwest
+2024-03-30,Jeans,Clothing,14,1157.36,Central
+2024-03-30,Blanket,Furniture,40,1608.29,Southeast
+2024-03-30,Mouse,Electronics,24,890.38,West
+2024-03-30,T-Shirt,Clothing,9,190.75,Northeast
+2024-03-30,Shoes,Clothing,16,964.49,East
+2024-03-31,HDMI Cable,Electronics,47,812.69,East
+2024-03-31,Dishwasher,Appliances,47,20734.37,Northwest
+2024-03-31,T-Shirt,Clothing,30,1097.88,Northwest
+2024-03-31,Keyboard,Electronics,19,1890.3,North
+2024-03-31,Blanket,Furniture,18,1345.73,Northwest
+2024-04-01,Refrigerator,Appliances,35,38380.08,South
+2024-04-01,Blanket,Furniture,44,4030.25,North
+2024-04-01,Pants,Clothing,26,1126.1,Central
+2024-04-01,Blender,Appliances,29,1942.91,West
+2024-04-01,Webcam,Electronics,2,116.46,Central
+2024-04-01,Headphones,Electronics,9,1580.23,Southeast
+2024-04-01,Sofa,Furniture,23,32491.57,Southeast
+2024-04-01,Socks,Clothing,44,417.23,North
+2024-04-01,Screen Protector,Mobile,19,140.71,Northwest
+2024-04-01,Monitor,Electronics,49,16968.34,West
+2024-04-01,USB Cable,Electronics,17,178.61,East
+2024-04-01,Earbuds,Mobile,45,9733.98,Southeast
+2024-04-02,Hat,Clothing,23,360.97,Central
+2024-04-02,Monitor,Electronics,50,14489.42,South
+2024-04-02,Speaker,Electronics,1,190.3,South
+2024-04-02,RAM,Electronics,24,3592.23,South
+2024-04-02,Power Bank,Mobile,27,901.41,Southeast
+2024-04-02,Pillow,Furniture,43,1454.29,South
+2024-04-02,Keyboard,Electronics,37,2467.46,Southeast
+2024-04-03,Mattress,Furniture,34,16187.76,South
+2024-04-04,Headphones,Electronics,47,6865.83,North
+2024-04-04,Earbuds,Mobile,38,5519.74,Central
+2024-04-04,Phone,Mobile,46,34195.55,Southeast
+2024-04-04,Bookshelf,Furniture,4,877.77,Northeast
+2024-04-04,Jacket,Clothing,49,6432.66,South
+2024-04-04,Pants,Clothing,27,2025.6,South
+2024-04-04,Table,Furniture,21,6230.6,South
+2024-04-04,Hat,Clothing,49,866.86,Southeast
+2024-04-04,Sofa,Furniture,28,41905.68,Northeast
+2024-04-05,Cabinet,Furniture,46,20518.87,South
+2024-04-05,USB Cable,Electronics,5,31.84,Southeast
+2024-04-05,Kettle,Appliances,33,2749.53,North
+2024-04-05,Toaster,Appliances,36,849.56,East
+2024-04-05,Underwear,Clothing,49,1016.77,Southeast
+2024-04-05,Laptop,Electronics,49,67779.74,Northeast
+2024-04-06,Underwear,Clothing,22,289.26,Southeast
+2024-04-06,Socks,Clothing,5,69.41,West
+2024-04-06,Cabinet,Furniture,4,1491.45,Southeast
+2024-04-06,Jeans,Clothing,13,1542.5,Northeast
+2024-04-07,Power Supply,Electronics,17,2979.02,Northwest
+2024-04-07,Screen Protector,Mobile,48,520.53,East
+2024-04-07,Jacket,Clothing,44,5170.81,Northwest
+2024-04-07,Shirt,Clothing,42,1949.08,Southeast
+2024-04-07,Socks,Clothing,28,368.95,Northwest
+2024-04-07,Sweater,Clothing,25,1120.37,Northwest
+2024-04-07,Jacket,Clothing,32,6264.93,East
+2024-04-07,Table,Furniture,11,5794.32,Northwest
+2024-04-07,Socks,Clothing,50,853.46,Northeast
+2024-04-07,Mattress,Furniture,21,11615.55,South
+2024-04-08,Microphone,Electronics,13,2738.62,Northwest
+2024-04-08,Jeans,Clothing,29,3295.37,North
+2024-04-08,Headphones,Electronics,7,898.37,South
+2024-04-08,Table,Furniture,11,2487.26,Central
+2024-04-08,Refrigerator,Appliances,7,5990.66,Southeast
+2024-04-08,Laptop,Electronics,35,32885.65,North
+2024-04-08,Headphones,Electronics,15,855.7,Northeast
+2024-04-08,Smart Watch,Mobile,20,7871.18,West
+2024-04-08,USB Cable,Electronics,1,14.65,North
+2024-04-08,Table,Furniture,49,20577.2,Southeast
+2024-04-08,Oven,Appliances,27,7899.13,Northeast
+2024-04-09,Hat,Clothing,30,1205.81,East
+2024-04-09,Motherboard,Electronics,45,13470.66,Central
+2024-04-09,Kettle,Appliances,35,2623.79,Northwest
+2024-04-09,Desk Lamp,Electronics,50,3205.87,Southeast
+2024-04-09,Smart Watch,Mobile,34,12525.25,Southeast
+2024-04-09,Underwear,Clothing,44,966.14,Northeast
+2024-04-09,Sofa,Furniture,10,10304.42,Central
+2024-04-10,Hat,Clothing,36,1723.08,Northeast
+2024-04-10,Sweater,Clothing,15,988.74,South
+2024-04-10,Hat,Clothing,37,813.74,South
+2024-04-10,Bookshelf,Furniture,20,3260.32,South
+2024-04-10,Mattress,Furniture,20,15781.46,South
+2024-04-10,Mattress,Furniture,23,12566.96,South
+2024-04-10,Refrigerator,Appliances,12,16843.0,North
+2024-04-10,Smart Watch,Mobile,6,2432.77,East
+2024-04-10,Table,Furniture,16,4576.92,Southeast
+2024-04-10,USB Cable,Electronics,22,137.24,East
+2024-04-11,Pants,Clothing,22,1461.09,Northwest
+2024-04-11,Shirt,Clothing,48,2294.32,Central
+2024-04-11,Laptop,Electronics,35,31027.92,Central
+2024-04-11,Table,Furniture,41,19887.12,Central
+2024-04-11,Power Bank,Mobile,36,1835.71,North
+2024-04-11,Refrigerator,Appliances,33,44775.39,North
+2024-04-11,Tablet,Mobile,10,3589.28,Southeast
+2024-04-12,Microwave,Appliances,36,8020.98,Northeast
+2024-04-12,Earbuds,Mobile,5,943.19,Northeast
+2024-04-12,Jeans,Clothing,25,2457.33,Central
+2024-04-12,Desk,Furniture,26,18780.18,South
+2024-04-12,Blanket,Furniture,46,4482.57,Central
+2024-04-12,Sweater,Clothing,35,1856.27,West
+2024-04-12,Earbuds,Mobile,2,157.67,Northeast
+2024-04-12,Mattress,Furniture,16,11753.8,Northwest
+2024-04-13,Hat,Clothing,26,436.55,North
+2024-04-13,Phone Case,Mobile,36,543.29,Central
+2024-04-13,Refrigerator,Appliances,19,11278.7,East
+2024-04-13,Kettle,Appliances,6,340.37,West
+2024-04-13,Mouse,Electronics,44,3029.14,South
+2024-04-13,Webcam,Electronics,38,3851.01,West
+2024-04-13,Phone,Mobile,12,8980.02,East
+2024-04-13,Phone Case,Mobile,20,731.17,West
+2024-04-13,Earbuds,Mobile,45,3570.93,Central
+2024-04-14,Speaker,Electronics,40,2532.27,Central
+2024-04-14,Webcam,Electronics,3,430.65,East
+2024-04-14,Power Bank,Mobile,49,3004.69,Southeast
+2024-04-14,Speaker,Electronics,6,540.99,North
+2024-04-14,Pants,Clothing,43,1989.87,Northeast
+2024-04-14,Desk Lamp,Electronics,7,509.03,South
+2024-04-14,Dishwasher,Appliances,5,3877.96,East
+2024-04-15,Hat,Clothing,29,1054.75,West
+2024-04-15,Jacket,Clothing,47,8842.41,South
+2024-04-15,Table,Furniture,48,23566.12,Southeast
+2024-04-15,Mattress,Furniture,42,31593.91,Northeast
+2024-04-15,Pillow,Furniture,38,2630.63,East
+2024-04-15,Underwear,Clothing,29,722.45,Central
+2024-04-15,RAM,Electronics,42,5159.18,Northwest
+2024-04-15,Cabinet,Furniture,4,722.81,Southeast
+2024-04-15,Keyboard,Electronics,42,2632.93,Central
+2024-04-15,Blender,Appliances,16,1748.48,Northwest
+2024-04-15,Monitor,Electronics,48,16410.86,Northeast
+2024-04-16,Kettle,Appliances,46,1134.54,Northeast
+2024-04-16,Keyboard,Electronics,33,2884.07,Northwest
+2024-04-16,Pants,Clothing,1,56.97,Central
+2024-04-16,Pillow,Furniture,50,2567.72,West
+2024-04-16,T-Shirt,Clothing,6,186.08,Northwest
+2024-04-16,Oven,Appliances,31,10733.39,Southeast
+2024-04-16,Cabinet,Furniture,25,5875.01,East
+2024-04-16,Power Bank,Mobile,50,3554.5,South
+2024-04-16,Sweater,Clothing,8,582.7,Northwest
+2024-04-17,Smart Watch,Mobile,44,18121.27,Northwest
+2024-04-17,Blanket,Furniture,16,710.81,North
+2024-04-17,HDMI Cable,Electronics,32,735.68,Northwest
+2024-04-17,Bookshelf,Furniture,32,5306.45,West
+2024-04-17,Jacket,Clothing,49,7305.06,North
+2024-04-17,Cooler,Electronics,24,1370.27,Southeast
+2024-04-18,Power Supply,Electronics,5,529.61,North
+2024-04-18,Chair,Furniture,27,4912.65,Southeast
+2024-04-18,Microwave,Appliances,5,949.07,Northwest
+2024-04-18,Speaker,Electronics,20,3574.35,West
+2024-04-18,Hat,Clothing,13,340.94,Northeast
+2024-04-18,External SSD,Electronics,46,4450.84,West
+2024-04-18,Phone,Mobile,34,28396.01,West
+2024-04-18,Phone Case,Mobile,31,397.83,East
+2024-04-18,Bed,Furniture,40,24817.94,Northeast
+2024-04-19,HDMI Cable,Electronics,14,305.62,East
+2024-04-19,Kettle,Appliances,32,1327.45,West
+2024-04-20,Kettle,Appliances,39,1531.05,Northeast
+2024-04-20,Power Bank,Mobile,39,1561.15,Northeast
+2024-04-20,Kettle,Appliances,20,913.06,East
+2024-04-20,Table,Furniture,8,3257.93,North
+2024-04-20,Shirt,Clothing,25,1173.3,North
+2024-04-20,Socks,Clothing,48,682.16,North
+2024-04-20,Pillow,Furniture,35,1316.91,East
+2024-04-20,Speaker,Electronics,7,517.9,North
+2024-04-20,Desk,Furniture,24,17397.47,Northwest
+2024-04-20,Toaster,Appliances,39,1321.04,Central
+2024-04-20,Gaming Chair,Electronics,25,8994.37,East
+2024-04-20,Shirt,Clothing,8,374.96,South
+2024-04-21,Speaker,Electronics,29,1690.18,South
+2024-04-21,Socks,Clothing,25,252.14,Southeast
+2024-04-21,Chair,Furniture,25,5020.97,North
+2024-04-21,Laptop,Electronics,29,30954.68,Central
+2024-04-21,USB Cable,Electronics,40,472.99,West
+2024-04-21,Microwave,Appliances,42,6865.18,Southeast
+2024-04-21,Shoes,Clothing,28,3097.38,Northeast
+2024-04-21,Desk Lamp,Electronics,39,1584.61,East
+2024-04-22,Jacket,Clothing,43,3599.03,Northwest
+2024-04-22,Oven,Appliances,40,31612.48,Central
+2024-04-22,Mouse,Electronics,29,1678.61,Southeast
+2024-04-22,Speaker,Electronics,1,152.82,Southeast
+2024-04-22,Monitor,Electronics,17,6740.37,South
+2024-04-23,Hat,Clothing,7,137.46,Central
+2024-04-23,Power Bank,Mobile,19,667.37,North
+2024-04-23,Blender,Appliances,18,2114.21,Northeast
+2024-04-23,Shoes,Clothing,36,5369.27,Northeast
+2024-04-23,Dishwasher,Appliances,6,6703.65,West
+2024-04-23,Toaster,Appliances,6,445.83,East
+2024-04-23,Motherboard,Electronics,13,3097.26,North
+2024-04-23,Chair,Furniture,6,1617.72,East
+2024-04-23,Tablet,Mobile,48,23397.48,Central
+2024-04-24,Pillow,Furniture,11,675.24,Northwest
+2024-04-24,HDMI Cable,Electronics,37,892.74,East
+2024-04-24,Microwave,Appliances,6,953.08,North
+2024-04-24,Chair,Furniture,19,7020.21,North
+2024-04-24,Gaming Chair,Electronics,38,13885.2,Southeast
+2024-04-24,Desk Lamp,Electronics,44,3968.54,West
+2024-04-24,Case,Electronics,8,1102.6,East
+2024-04-24,Graphics Card,Electronics,20,15587.16,West
+2024-04-24,Gaming Chair,Electronics,14,6195.54,East
+2024-04-25,Desktop,Electronics,30,28625.68,East
+2024-04-25,Webcam,Electronics,49,5344.39,South
+2024-04-25,Jeans,Clothing,27,1578.19,Northeast
+2024-04-25,Case,Electronics,35,2591.87,Central
+2024-04-25,Sweater,Clothing,38,3777.27,Central
+2024-04-25,Chair,Furniture,31,9701.38,South
+2024-04-25,Desktop,Electronics,22,13939.92,North
+2024-04-25,Table,Furniture,28,6627.19,East
+2024-04-25,Pants,Clothing,45,3377.26,Central
+2024-04-25,Webcam,Electronics,15,565.25,West
+2024-04-25,Jeans,Clothing,9,1003.11,Northeast
+2024-04-26,Monitor,Electronics,48,10355.37,South
+2024-04-26,Case,Electronics,30,1080.29,Central
+2024-04-26,Laptop,Electronics,13,13053.52,Northeast
+2024-04-26,Microwave,Appliances,40,5438.38,Northwest
+2024-04-26,Blanket,Furniture,18,1422.6,Southeast
+2024-04-26,Kettle,Appliances,16,983.94,North
+2024-04-26,Monitor,Electronics,42,12483.3,North
+2024-04-26,Microwave,Appliances,34,6683.9,West
+2024-04-26,Phone,Mobile,11,6150.39,Northeast
+2024-04-27,Cabinet,Furniture,3,709.76,North
+2024-04-27,Tablet,Mobile,46,14339.09,Central
+2024-04-27,Shoes,Clothing,15,1084.39,Central
+2024-04-27,Monitor,Electronics,13,2770.84,Central
+2024-04-27,Mattress,Furniture,31,11823.02,North
+2024-04-27,Desktop,Electronics,11,9512.49,South
+2024-04-27,Power Bank,Mobile,38,1050.55,South
+2024-04-27,Jacket,Clothing,1,117.32,South
+2024-04-27,Speaker,Electronics,20,623.01,East
+2024-04-27,Screen Protector,Mobile,28,213.98,East
+2024-04-27,Blanket,Furniture,44,3494.44,East
+2024-04-27,Motherboard,Electronics,26,8654.47,Northwest
+2024-04-27,Smart Watch,Mobile,32,4848.58,East
+2024-04-27,Headphones,Electronics,26,7136.65,South
+2024-04-27,Bookshelf,Furniture,35,7220.01,Northeast
+2024-04-28,Motherboard,Electronics,29,9929.79,South
+2024-04-28,Underwear,Clothing,13,264.79,North
+2024-04-28,Blender,Appliances,23,3443.66,East
+2024-04-28,Shirt,Clothing,29,784.36,South
+2024-04-28,Coffee Maker,Appliances,44,8299.42,Southeast
+2024-04-28,Table,Furniture,41,23338.41,Northwest
+2024-04-28,Refrigerator,Appliances,19,31386.33,East
+2024-04-28,Gaming Chair,Electronics,17,5333.43,North
+2024-04-28,Power Supply,Electronics,47,5368.18,North
+2024-04-29,Power Supply,Electronics,8,796.82,West
+2024-04-29,Phone Case,Mobile,50,1237.79,Central
+2024-04-29,Microphone,Electronics,26,5147.3,North
+2024-04-29,Jeans,Clothing,11,1135.46,Northwest
+2024-04-29,Case,Electronics,5,415.04,East
+2024-04-29,Blanket,Furniture,24,1335.61,North
+2024-04-29,Chair,Furniture,32,3422.49,Central
+2024-04-29,Speaker,Electronics,49,8464.96,Southeast
+2024-04-30,Dishwasher,Appliances,11,6330.4,Southeast
+2024-04-30,Monitor,Electronics,27,6857.85,Central
+2024-04-30,Earbuds,Mobile,7,1021.3,North
+2024-04-30,Oven,Appliances,24,14567.62,West
+2024-04-30,Blender,Appliances,2,200.97,South
+2024-04-30,Desk,Furniture,18,5560.08,Southeast
+2024-04-30,Bed,Furniture,27,18422.95,Northeast
+2024-04-30,Desktop,Electronics,23,16894.27,North
+2024-05-01,Bed,Furniture,31,19811.53,West
+2024-05-01,Sofa,Furniture,49,71731.79,West
+2024-05-01,Phone Case,Mobile,24,979.97,East
+2024-05-01,Phone Case,Mobile,14,220.13,East
+2024-05-01,Motherboard,Electronics,20,7145.25,West
+2024-05-01,Phone Case,Mobile,14,529.31,East
+2024-05-01,Speaker,Electronics,47,6977.14,Southeast
+2024-05-01,Power Bank,Mobile,25,1867.02,West
+2024-05-02,Mattress,Furniture,44,36234.36,Northwest
+2024-05-02,Shirt,Clothing,1,30.43,West
+2024-05-02,Blender,Appliances,6,383.95,West
+2024-05-02,External SSD,Electronics,42,7350.2,East
+2024-05-02,Desk,Furniture,50,22283.01,Northwest
+2024-05-02,USB Cable,Electronics,48,951.96,Southeast
+2024-05-02,Toaster,Appliances,42,3073.03,Northwest
+2024-05-02,Laptop,Electronics,20,26548.65,Northeast
+2024-05-02,HDMI Cable,Electronics,10,219.68,Northwest
+2024-05-02,Toaster,Appliances,29,1441.8,South
+2024-05-03,Power Supply,Electronics,7,1224.26,Central
+2024-05-03,Speaker,Electronics,27,5035.31,Central
+2024-05-03,Microwave,Appliances,23,5009.62,Northwest
+2024-05-03,Shoes,Clothing,36,4546.34,Northeast
+2024-05-03,Toaster,Appliances,48,3466.74,Central
+2024-05-03,External SSD,Electronics,4,298.78,Northwest
+2024-05-03,RAM,Electronics,37,3761.18,Central
+2024-05-03,Microwave,Appliances,24,3608.16,South
+2024-05-04,Phone,Mobile,18,10942.39,West
+2024-05-04,Headphones,Electronics,1,94.85,North
+2024-05-04,Dishwasher,Appliances,40,18189.46,North
+2024-05-05,Sofa,Furniture,11,7625.86,East
+2024-05-05,Desk,Furniture,39,16894.16,Northeast
+2024-05-05,Desk Lamp,Electronics,12,859.66,Northwest
+2024-05-05,Charger,Mobile,30,626.65,Southeast
+2024-05-05,Microwave,Appliances,9,2006.06,South
+2024-05-05,Desk Lamp,Electronics,2,64.34,Northeast
+2024-05-05,Speaker,Electronics,24,3313.19,Northwest
+2024-05-05,Bed,Furniture,21,14717.73,West
+2024-05-06,Bookshelf,Furniture,12,2965.57,Central
+2024-05-06,Blender,Appliances,47,6488.5,West
+2024-05-06,Underwear,Clothing,27,653.48,Southeast
+2024-05-06,Sweater,Clothing,39,1653.27,South
+2024-05-06,Socks,Clothing,10,148.41,West
+2024-05-06,Cabinet,Furniture,37,7028.98,South
+2024-05-06,Bed,Furniture,32,17481.52,Central
+2024-05-07,Pillow,Furniture,41,2087.82,North
+2024-05-07,Bookshelf,Furniture,39,14227.62,North
+2024-05-07,Mattress,Furniture,15,9342.07,East
+2024-05-07,Motherboard,Electronics,29,10116.28,Northeast
+2024-05-07,Cabinet,Furniture,17,7092.0,Northeast
+2024-05-07,USB Cable,Electronics,3,44.91,North
+2024-05-07,Blanket,Furniture,41,3602.01,South
+2024-05-07,Desk,Furniture,32,21913.22,Southeast
+2024-05-07,Desk,Furniture,36,9743.64,Northwest
+2024-05-07,Screen Protector,Mobile,33,514.18,Central
+2024-05-08,Earbuds,Mobile,12,1269.56,North
+2024-05-08,Webcam,Electronics,34,2237.29,Northwest
+2024-05-08,Shirt,Clothing,18,489.47,Northwest
+2024-05-08,Power Bank,Mobile,4,111.26,Northeast
+2024-05-08,USB Cable,Electronics,29,190.02,North
+2024-05-09,Cabinet,Furniture,50,7607.3,Northeast
+2024-05-09,Earbuds,Mobile,10,2013.78,Northwest
+2024-05-09,External SSD,Electronics,43,5260.12,East
+2024-05-09,Tablet,Mobile,1,709.75,Northeast
+2024-05-10,Blender,Appliances,45,4474.19,East
+2024-05-10,T-Shirt,Clothing,25,597.07,Southeast
+2024-05-10,Power Bank,Mobile,5,210.5,East
+2024-05-10,Phone,Mobile,34,22336.86,South
+2024-05-10,Power Supply,Electronics,15,2437.88,Northwest
+2024-05-10,Blanket,Furniture,25,1713.11,East
+2024-05-10,Webcam,Electronics,37,1953.95,Northwest
+2024-05-10,Power Bank,Mobile,29,1447.96,West
+2024-05-10,Hat,Clothing,24,619.45,North
+2024-05-10,Smart Watch,Mobile,36,13556.51,Northeast
+2024-05-10,Headphones,Electronics,24,4213.0,Northwest
+2024-05-10,Mouse,Electronics,17,997.22,South
+2024-05-11,Screen Protector,Mobile,31,357.77,Southeast
+2024-05-11,Kettle,Appliances,43,3850.62,North
+2024-05-11,Webcam,Electronics,28,1212.59,Northeast
+2024-05-12,Toaster,Appliances,8,615.64,East
+2024-05-12,Desk,Furniture,28,16716.78,South
+2024-05-12,Power Supply,Electronics,47,5342.72,South
+2024-05-12,Microphone,Electronics,1,125.08,Central
+2024-05-12,Monitor,Electronics,5,2315.49,Northwest
+2024-05-13,Tablet,Mobile,40,27396.78,Central
+2024-05-13,Chair,Furniture,38,9197.77,West
+2024-05-13,Phone,Mobile,19,11239.94,North
+2024-05-13,Earbuds,Mobile,27,2972.44,West
+2024-05-13,Shirt,Clothing,14,655.05,Central
+2024-05-14,Speaker,Electronics,23,1547.92,Southeast
+2024-05-14,Motherboard,Electronics,25,8364.37,North
+2024-05-14,External SSD,Electronics,40,2349.11,West
+2024-05-14,Bed,Furniture,12,6650.53,North
+2024-05-14,Sofa,Furniture,22,31193.72,North
+2024-05-14,Screen Protector,Mobile,47,792.7,Northwest
+2024-05-14,RAM,Electronics,18,3046.33,Northeast
+2024-05-15,HDMI Cable,Electronics,33,308.94,North
+2024-05-15,Underwear,Clothing,11,148.52,East
+2024-05-15,Graphics Card,Electronics,4,1040.48,West
+2024-05-15,Cooler,Electronics,32,1647.1,Northeast
+2024-05-15,Case,Electronics,33,3387.49,Southeast
+2024-05-15,RAM,Electronics,44,6956.76,North
+2024-05-15,Dishwasher,Appliances,22,26119.66,North
+2024-05-16,Chair,Furniture,31,10686.46,Central
+2024-05-16,Toaster,Appliances,27,844.56,Central
+2024-05-16,Cooler,Electronics,31,1958.38,Northeast
+2024-05-16,Case,Electronics,1,92.73,Northwest
+2024-05-16,Desktop,Electronics,7,5384.88,East
+2024-05-16,Charger,Mobile,12,313.39,South
+2024-05-16,Headphones,Electronics,37,3069.11,Southeast
+2024-05-16,Headphones,Electronics,13,2277.12,East
+2024-05-16,Laptop,Electronics,49,64786.12,South
+2024-05-17,Blender,Appliances,30,2468.07,Southeast
+2024-05-17,Webcam,Electronics,6,577.47,Northwest
+2024-05-17,Sweater,Clothing,28,1428.26,East
+2024-05-17,Pants,Clothing,27,2583.02,Southeast
+2024-05-17,Bookshelf,Furniture,41,4905.3,North
+2024-05-17,Blanket,Furniture,18,645.33,East
+2024-05-17,HDMI Cable,Electronics,46,596.84,Northeast
+2024-05-17,USB Cable,Electronics,5,27.77,West
+2024-05-17,Gaming Chair,Electronics,2,691.04,East
+2024-05-17,Phone Case,Mobile,36,600.29,East
+2024-05-17,Pillow,Furniture,7,462.96,South
+2024-05-17,Microphone,Electronics,30,4282.59,Northwest
+2024-05-17,Earbuds,Mobile,24,3787.78,West
+2024-05-18,Sofa,Furniture,24,21419.96,East
+2024-05-18,Hat,Clothing,11,263.93,Central
+2024-05-18,Earbuds,Mobile,9,1145.25,West
+2024-05-18,Headphones,Electronics,10,1078.15,East
+2024-05-18,Microphone,Electronics,42,3555.05,West
+2024-05-18,Power Supply,Electronics,9,1758.88,Southeast
+2024-05-18,Monitor,Electronics,24,9268.81,Southeast
+2024-05-18,Table,Furniture,30,15243.98,West
+2024-05-18,Underwear,Clothing,36,403.91,West
+2024-05-18,Tablet,Mobile,32,16651.65,Central
+2024-05-18,RAM,Electronics,20,1712.64,Central
+2024-05-18,Shoes,Clothing,22,1103.22,North
+2024-05-19,Bookshelf,Furniture,6,1228.93,Northwest
+2024-05-19,Kettle,Appliances,35,3003.31,Northeast
+2024-05-19,Shoes,Clothing,47,4551.46,Northeast
+2024-05-19,Case,Electronics,31,1840.95,Central
+2024-05-19,Desk,Furniture,9,6395.72,Southeast
+2024-05-19,External SSD,Electronics,50,6626.79,Northwest
+2024-05-19,Gaming Chair,Electronics,47,15908.87,North
+2024-05-19,Underwear,Clothing,13,131.42,Central
+2024-05-19,Bed,Furniture,25,23073.51,East
+2024-05-19,Sofa,Furniture,3,3759.87,Central
+2024-05-19,Case,Electronics,20,2225.49,East
+2024-05-19,Headphones,Electronics,3,172.35,Northwest
+2024-05-20,Mouse,Electronics,31,870.26,Central
+2024-05-20,Keyboard,Electronics,46,4876.14,North
+2024-05-20,Shirt,Clothing,10,577.31,Central
+2024-05-20,HDMI Cable,Electronics,25,228.08,Southeast
+2024-05-20,Desk,Furniture,17,8308.54,South
+2024-05-20,Jeans,Clothing,19,1843.34,South
+2024-05-20,Table,Furniture,37,15342.57,West
+2024-05-20,Shoes,Clothing,46,3762.15,South
+2024-05-20,Charger,Mobile,8,337.33,Northwest
+2024-05-20,Motherboard,Electronics,30,3917.17,South
+2024-05-20,Chair,Furniture,45,17097.18,West
+2024-05-20,Speaker,Electronics,42,8394.88,North
+2024-05-20,Pants,Clothing,45,3025.11,Northeast
+2024-05-20,HDMI Cable,Electronics,34,776.27,Central
+2024-05-21,Laptop,Electronics,6,5743.74,Northwest
+2024-05-21,Keyboard,Electronics,48,3606.44,North
+2024-05-21,Jacket,Clothing,12,1938.76,Northwest
+2024-05-21,USB Cable,Electronics,13,244.76,Northwest
+2024-05-21,Microphone,Electronics,5,636.61,South
+2024-05-21,Charger,Mobile,28,862.52,West
+2024-05-21,Phone,Mobile,50,48819.26,East
+2024-05-21,External SSD,Electronics,15,1489.26,West
+2024-05-22,Chair,Furniture,23,8796.95,North
+2024-05-22,Sofa,Furniture,24,25418.25,East
+2024-05-22,Earbuds,Mobile,19,2146.98,Northwest
+2024-05-23,Pillow,Furniture,49,3600.79,Northeast
+2024-05-23,Toaster,Appliances,1,58.44,West
+2024-05-23,Cabinet,Furniture,43,8289.58,Northeast
+2024-05-23,Mattress,Furniture,23,22408.93,Northeast
+2024-05-23,Desk Lamp,Electronics,36,1551.17,Northeast
+2024-05-23,T-Shirt,Clothing,16,305.31,Northwest
+2024-05-23,Refrigerator,Appliances,26,16860.02,North
+2024-05-23,Laptop,Electronics,5,7307.68,South
+2024-05-24,Tablet,Mobile,41,15977.02,Northeast
+2024-05-24,Bed,Furniture,21,24505.47,Northeast
+2024-05-24,Motherboard,Electronics,44,16234.14,Northwest
+2024-05-24,Keyboard,Electronics,44,5750.43,Southeast
+2024-05-25,Bed,Furniture,37,42871.71,East
+2024-05-25,Blanket,Furniture,22,704.2,Northwest
+2024-05-25,Earbuds,Mobile,12,2433.97,Southeast
+2024-05-25,Monitor,Electronics,44,14738.98,East
+2024-05-25,Underwear,Clothing,35,828.06,Northeast
+2024-05-25,Case,Electronics,8,689.95,Southeast
+2024-05-25,Refrigerator,Appliances,49,93029.19,North
+2024-05-26,T-Shirt,Clothing,32,503.59,Northwest
+2024-05-26,Power Supply,Electronics,9,1749.74,South
+2024-05-26,Bed,Furniture,16,16443.13,Southeast
+2024-05-26,Tablet,Mobile,21,11823.07,West
+2024-05-26,Shoes,Clothing,45,3578.54,Central
+2024-05-26,Sweater,Clothing,50,2845.32,Southeast
+2024-05-26,Blender,Appliances,15,1615.28,West
+2024-05-26,Graphics Card,Electronics,36,28250.21,Northwest
+2024-05-26,Sweater,Clothing,32,2138.37,South
+2024-05-26,Charger,Mobile,31,1250.62,South
+2024-05-26,Desk Lamp,Electronics,16,411.7,West
+2024-05-26,Case,Electronics,31,2568.54,Southeast
+2024-05-26,Power Bank,Mobile,36,1869.67,North
+2024-05-26,Graphics Card,Electronics,12,5408.77,North
+2024-05-26,Power Supply,Electronics,48,7318.37,East
+2024-05-26,Bed,Furniture,7,3011.32,East
+2024-05-26,Laptop,Electronics,42,44170.83,Central
+2024-05-26,Underwear,Clothing,32,888.96,North
+2024-05-27,Jacket,Clothing,12,1660.81,Northwest
+2024-05-27,Earbuds,Mobile,7,1611.43,West
+2024-05-27,RAM,Electronics,25,3361.88,Southeast
+2024-05-27,Tablet,Mobile,11,5178.5,West
+2024-05-27,Mouse,Electronics,21,1229.35,East
+2024-05-27,Bookshelf,Furniture,21,7369.49,East
+2024-05-27,Hat,Clothing,3,104.66,North
+2024-05-27,Shirt,Clothing,16,513.13,Northeast
+2024-05-27,Laptop,Electronics,12,13019.93,Central
+2024-05-28,Mouse,Electronics,28,1138.81,North
+2024-05-28,Pillow,Furniture,30,1395.21,Northeast
+2024-05-28,Shirt,Clothing,13,648.49,Northwest
+2024-05-29,Graphics Card,Electronics,7,2441.0,East
+2024-05-29,Socks,Clothing,15,299.4,Northeast
+2024-05-29,Chair,Furniture,33,7710.28,South
+2024-05-29,Mattress,Furniture,19,7727.07,Northwest
+2024-05-29,Motherboard,Electronics,17,5836.48,West
+2024-05-29,T-Shirt,Clothing,6,160.5,Southeast
+2024-05-30,USB Cable,Electronics,5,47.45,Northwest
+2024-05-30,Charger,Mobile,31,691.64,West
+2024-05-30,Charger,Mobile,9,281.38,Central
+2024-05-31,RAM,Electronics,24,1994.6,North
+2024-05-31,Power Bank,Mobile,43,2396.49,East
+2024-05-31,Mattress,Furniture,11,8372.24,East
+2024-05-31,USB Cable,Electronics,27,531.97,North
+2024-05-31,Phone,Mobile,40,21957.48,Southeast
+2024-05-31,Power Supply,Electronics,16,2793.75,Northeast
+2024-05-31,External SSD,Electronics,36,3207.33,North
+2024-05-31,Speaker,Electronics,33,2232.89,Southeast
+2024-06-01,Tablet,Mobile,50,19144.57,North
+2024-06-01,Headphones,Electronics,10,893.52,North
+2024-06-01,Dishwasher,Appliances,34,25751.54,South
+2024-06-01,Power Bank,Mobile,47,3891.68,Central
+2024-06-01,Sofa,Furniture,3,2194.43,Central
+2024-06-01,Desk,Furniture,28,20517.96,Northeast
+2024-06-02,Table,Furniture,40,10711.73,West
+2024-06-02,T-Shirt,Clothing,5,107.89,South
+2024-06-02,Dishwasher,Appliances,5,4124.55,East
+2024-06-02,Bed,Furniture,47,46171.83,North
+2024-06-02,Sofa,Furniture,35,35231.44,Northwest
+2024-06-03,Pants,Clothing,2,89.75,North
+2024-06-03,Microphone,Electronics,4,841.18,Central
+2024-06-03,Bed,Furniture,33,15917.41,East
+2024-06-03,Microwave,Appliances,28,6209.53,Central
+2024-06-03,Sofa,Furniture,12,16225.55,Northeast
+2024-06-03,Tablet,Mobile,13,6045.39,South
+2024-06-03,Bookshelf,Furniture,50,15178.39,North
+2024-06-03,Phone Case,Mobile,45,1436.05,Central
+2024-06-03,Laptop,Electronics,4,4053.39,Northwest
+2024-06-03,Desk Lamp,Electronics,19,1062.2,West
+2024-06-04,Case,Electronics,43,5809.27,North
+2024-06-04,Case,Electronics,44,1890.79,Central
+2024-06-04,Sofa,Furniture,12,9304.97,North
+2024-06-04,Desk Lamp,Electronics,34,3326.89,Central
+2024-06-04,Pillow,Furniture,50,3457.9,South
+2024-06-04,Power Bank,Mobile,47,2116.49,Northwest
+2024-06-05,Graphics Card,Electronics,13,2612.33,Central
+2024-06-05,Kettle,Appliances,36,2004.23,Northwest
+2024-06-05,HDMI Cable,Electronics,24,566.52,Northeast
+2024-06-05,Dishwasher,Appliances,40,37860.31,Northwest
+2024-06-05,Pants,Clothing,4,191.22,Southeast
+2024-06-05,Bookshelf,Furniture,44,5468.66,West
+2024-06-05,Refrigerator,Appliances,30,33649.85,South
+2024-06-05,Blanket,Furniture,39,2718.03,Central
+2024-06-05,Graphics Card,Electronics,32,9100.35,South
+2024-06-05,Pants,Clothing,12,839.11,Northeast
+2024-06-05,Toaster,Appliances,19,1119.24,Central
+2024-06-05,Case,Electronics,27,2886.53,Northeast
+2024-06-05,Power Bank,Mobile,34,977.34,North
+2024-06-06,Pillow,Furniture,50,1979.13,Northwest
+2024-06-06,Desktop,Electronics,13,10378.02,East
+2024-06-06,Power Supply,Electronics,47,2846.24,North
+2024-06-06,Monitor,Electronics,30,11790.07,Central
+2024-06-06,Bookshelf,Furniture,33,9645.78,South
+2024-06-06,Shoes,Clothing,37,3391.3,West
+2024-06-06,Underwear,Clothing,3,50.03,Northwest
+2024-06-07,Phone,Mobile,33,22889.88,Central
+2024-06-07,Pillow,Furniture,46,2733.78,Southeast
+2024-06-07,Microphone,Electronics,10,905.62,Northwest
+2024-06-07,Shoes,Clothing,50,3033.45,East
+2024-06-07,Keyboard,Electronics,18,1697.6,South
+2024-06-07,Monitor,Electronics,45,17758.62,West
+2024-06-07,Keyboard,Electronics,1,98.46,Northeast
+2024-06-07,Headphones,Electronics,43,8424.48,Northwest
+2024-06-07,Dishwasher,Appliances,15,16937.84,Southeast
+2024-06-08,Coffee Maker,Appliances,41,4768.55,Southeast
+2024-06-08,Earbuds,Mobile,9,2643.94,South
+2024-06-08,Blanket,Furniture,39,3706.4,North
+2024-06-08,Phone,Mobile,25,24905.99,Northeast
+2024-06-09,Pillow,Furniture,13,335.65,Southeast
+2024-06-09,Bookshelf,Furniture,37,10423.15,East
+2024-06-09,Blanket,Furniture,37,1608.03,Northeast
+2024-06-09,Cooler,Electronics,33,1388.32,West
+2024-06-09,Mouse,Electronics,45,1798.85,Northwest
+2024-06-09,Motherboard,Electronics,45,14928.49,South
+2024-06-09,Blanket,Furniture,32,2729.39,Central
+2024-06-09,Cooler,Electronics,10,499.13,West
+2024-06-09,Tablet,Mobile,20,13463.33,North
+2024-06-10,Sweater,Clothing,9,379.28,West
+2024-06-10,Blanket,Furniture,50,2052.14,Northwest
+2024-06-10,Power Bank,Mobile,34,2420.22,Northwest
+2024-06-10,Speaker,Electronics,48,4170.8,Southeast
+2024-06-10,Tablet,Mobile,38,20963.51,South
+2024-06-10,Power Supply,Electronics,25,2944.97,Northwest
+2024-06-10,Bed,Furniture,46,44025.84,West
+2024-06-10,Pillow,Furniture,46,1357.12,West
+2024-06-10,Keyboard,Electronics,19,1785.15,West
+2024-06-10,Earbuds,Mobile,15,3550.37,Central
+2024-06-10,Tablet,Mobile,5,1989.07,Northeast
+2024-06-10,Shoes,Clothing,13,1086.66,Central
+2024-06-10,Laptop,Electronics,27,34105.46,Central
+2024-06-11,Microwave,Appliances,26,5281.19,South
+2024-06-11,Mattress,Furniture,31,28600.55,South
+2024-06-11,Cooler,Electronics,17,1235.78,West
+2024-06-11,Cabinet,Furniture,9,3318.82,Central
+2024-06-11,Toaster,Appliances,49,1411.37,North
+2024-06-11,Power Supply,Electronics,32,2695.06,Southeast
+2024-06-11,Desktop,Electronics,48,44077.9,South
+2024-06-11,Laptop,Electronics,10,11301.68,South
+2024-06-11,T-Shirt,Clothing,28,1095.73,Northwest
+2024-06-12,HDMI Cable,Electronics,37,757.91,West
+2024-06-12,Phone Case,Mobile,44,1010.74,West
+2024-06-12,Shoes,Clothing,40,5672.17,Northwest
+2024-06-12,Jeans,Clothing,50,3994.44,Central
+2024-06-12,Webcam,Electronics,48,3024.17,North
+2024-06-12,Hat,Clothing,44,1020.09,South
+2024-06-12,Microwave,Appliances,5,610.86,Southeast
+2024-06-12,Smart Watch,Mobile,43,13792.21,Southeast
+2024-06-12,Underwear,Clothing,8,144.81,Central
+2024-06-12,Shirt,Clothing,49,1670.39,South
+2024-06-12,Dishwasher,Appliances,7,7687.23,Southeast
+2024-06-12,Power Bank,Mobile,10,823.29,Central
+2024-06-13,Blender,Appliances,42,2322.47,Central
+2024-06-13,Gaming Chair,Electronics,45,15460.17,Southeast
+2024-06-13,Phone,Mobile,4,3403.02,North
+2024-06-13,T-Shirt,Clothing,24,440.58,Central
+2024-06-13,Power Supply,Electronics,10,780.36,West
+2024-06-13,Screen Protector,Mobile,31,262.74,Southeast
+2024-06-14,Cabinet,Furniture,36,14337.65,South
+2024-06-14,Cooler,Electronics,21,1980.75,Southeast
+2024-06-14,Jacket,Clothing,15,1673.36,Northwest
+2024-06-14,Microwave,Appliances,37,10932.24,Northeast
+2024-06-14,Keyboard,Electronics,32,2834.83,West
+2024-06-14,Gaming Chair,Electronics,15,4135.76,North
+2024-06-14,Hat,Clothing,36,1642.21,North
+2024-06-14,Microphone,Electronics,10,2068.0,Southeast
+2024-06-14,Headphones,Electronics,35,9216.74,Northeast
+2024-06-14,Headphones,Electronics,36,7208.99,West
+2024-06-14,Desk Lamp,Electronics,36,833.27,East
+2024-06-14,Mouse,Electronics,35,2231.17,East
+2024-06-15,Sofa,Furniture,49,61005.82,West
+2024-06-15,Bookshelf,Furniture,50,9269.13,East
+2024-06-15,HDMI Cable,Electronics,26,484.52,North
+2024-06-15,Laptop,Electronics,43,44814.82,South
+2024-06-15,Jacket,Clothing,25,3525.62,West
+2024-06-15,Cooler,Electronics,18,494.41,East
+2024-06-15,Screen Protector,Mobile,46,735.95,East
+2024-06-15,Phone Case,Mobile,15,419.53,Northwest
+2024-06-16,Pants,Clothing,8,703.68,Central
+2024-06-16,Jacket,Clothing,15,1645.31,Central
+2024-06-16,Desk,Furniture,43,29681.29,North
+2024-06-16,HDMI Cable,Electronics,11,98.01,Northwest
+2024-06-16,Smart Watch,Mobile,22,6097.74,Southeast
+2024-06-16,Mouse,Electronics,50,2883.85,East
+2024-06-16,Microwave,Appliances,47,5182.74,West
+2024-06-16,Headphones,Electronics,23,2434.14,West
+2024-06-16,Underwear,Clothing,21,314.27,West
+2024-06-16,Earbuds,Mobile,19,3499.28,Southeast
+2024-06-16,External SSD,Electronics,27,2817.19,Northeast
+2024-06-17,Socks,Clothing,1,13.49,Central
+2024-06-17,Power Bank,Mobile,8,168.11,East
+2024-06-17,Earbuds,Mobile,41,3045.93,East
+2024-06-17,Desk Lamp,Electronics,22,930.34,Northwest
+2024-06-17,Coffee Maker,Appliances,8,1234.78,East
+2024-06-17,Dishwasher,Appliances,48,47308.97,East
+2024-06-17,Pillow,Furniture,22,547.58,East
+2024-06-17,Jacket,Clothing,7,732.36,Central
+2024-06-17,External SSD,Electronics,4,316.23,Central
+2024-06-17,Smart Watch,Mobile,11,4140.95,Northeast
+2024-06-17,Hat,Clothing,2,50.47,South
+2024-06-17,Motherboard,Electronics,36,11691.3,East
+2024-06-17,Phone,Mobile,50,35366.62,South
+2024-06-17,Dishwasher,Appliances,11,12045.6,East
+2024-06-18,Jacket,Clothing,50,7711.7,South
+2024-06-18,Gaming Chair,Electronics,9,2308.21,Southeast
+2024-06-18,Desk,Furniture,17,5137.26,North
+2024-06-18,Speaker,Electronics,4,589.03,North
+2024-06-18,Desk,Furniture,40,22535.22,Central
+2024-06-18,Sofa,Furniture,21,30590.4,Northwest
+2024-06-18,Dishwasher,Appliances,42,45705.63,East
+2024-06-18,Desktop,Electronics,42,36001.04,South
+2024-06-18,Headphones,Electronics,16,1495.25,East
+2024-06-18,Socks,Clothing,30,189.63,North
+2024-06-18,RAM,Electronics,42,5527.99,South
+2024-06-18,USB Cable,Electronics,20,390.31,Northeast
+2024-06-18,Motherboard,Electronics,49,12457.81,East
+2024-06-19,Speaker,Electronics,43,3803.12,South
+2024-06-19,Kettle,Appliances,49,1950.06,West
+2024-06-19,Pants,Clothing,43,3907.88,Northeast
+2024-06-19,Smart Watch,Mobile,34,16698.39,South
+2024-06-19,Desk,Furniture,44,31773.28,Southeast
+2024-06-19,Blender,Appliances,17,840.41,Northeast
+2024-06-20,Phone,Mobile,44,26265.65,West
+2024-06-20,Microphone,Electronics,1,67.94,East
+2024-06-20,Jacket,Clothing,45,5848.15,Northeast
+2024-06-20,Socks,Clothing,38,304.18,Northwest
+2024-06-20,Tablet,Mobile,29,21453.29,Northeast
+2024-06-20,Monitor,Electronics,42,12988.83,North
+2024-06-20,Mouse,Electronics,40,926.66,Central
+2024-06-21,Phone Case,Mobile,13,593.79,South
+2024-06-21,Hat,Clothing,8,227.23,North
+2024-06-21,External SSD,Electronics,48,3621.78,Southeast
+2024-06-21,Pillow,Furniture,5,156.45,North
+2024-06-22,Microwave,Appliances,3,375.74,Southeast
+2024-06-22,Desk,Furniture,38,9932.72,Northwest
+2024-06-22,HDMI Cable,Electronics,10,224.27,North
+2024-06-22,External SSD,Electronics,42,4679.9,Central
+2024-06-22,Kettle,Appliances,29,2020.61,Central
+2024-06-22,Earbuds,Mobile,34,7370.63,Southeast
+2024-06-22,Socks,Clothing,8,157.1,Northeast
+2024-06-22,Shirt,Clothing,48,1182.53,Northwest
+2024-06-22,Toaster,Appliances,47,1405.43,Northwest
+2024-06-23,Tablet,Mobile,40,19620.32,Central
+2024-06-23,Bookshelf,Furniture,31,6324.31,East
+2024-06-23,T-Shirt,Clothing,23,468.46,East
+2024-06-23,Desktop,Electronics,24,21438.53,West
+2024-06-23,Bookshelf,Furniture,50,14614.43,Central
+2024-06-23,Socks,Clothing,27,358.6,West
+2024-06-23,Mouse,Electronics,12,769.26,East
+2024-06-24,Keyboard,Electronics,10,1311.14,East
+2024-06-24,Screen Protector,Mobile,11,119.2,North
+2024-06-24,Speaker,Electronics,9,729.74,West
+2024-06-24,Cooler,Electronics,14,1216.24,North
+2024-06-24,Pants,Clothing,26,2170.06,Northeast
+2024-06-24,Blender,Appliances,39,4657.41,North
+2024-06-24,Socks,Clothing,30,182.84,Central
+2024-06-24,Pillow,Furniture,37,2477.45,South
+2024-06-25,Gaming Chair,Electronics,36,7314.24,Northeast
+2024-06-25,Phone,Mobile,39,24656.31,North
+2024-06-25,Chair,Furniture,20,2054.8,Southeast
+2024-06-25,USB Cable,Electronics,24,329.7,North
+2024-06-25,Phone Case,Mobile,39,1391.92,South
+2024-06-25,Case,Electronics,5,334.66,Central
+2024-06-25,RAM,Electronics,20,1597.65,Southeast
+2024-06-25,Kettle,Appliances,8,523.04,Southeast
+2024-06-25,Headphones,Electronics,47,10942.69,East
+2024-06-25,Kettle,Appliances,36,2192.46,Central
+2024-06-26,Power Supply,Electronics,12,1091.89,North
+2024-06-26,Blender,Appliances,47,3878.48,East
+2024-06-26,Bed,Furniture,18,7870.49,Southeast
+2024-06-26,Toaster,Appliances,20,940.07,South
+2024-06-26,Desk Lamp,Electronics,21,718.43,Southeast
+2024-06-26,USB Cable,Electronics,5,56.12,West
+2024-06-26,Underwear,Clothing,24,576.78,North
+2024-06-26,Coffee Maker,Appliances,18,1974.25,West
+2024-06-26,USB Cable,Electronics,27,376.55,Northwest
+2024-06-26,Dishwasher,Appliances,22,18076.13,Central
+2024-06-27,T-Shirt,Clothing,18,339.97,Northeast
+2024-06-27,Graphics Card,Electronics,44,30660.84,Central
+2024-06-27,Earbuds,Mobile,12,921.05,Northwest
+2024-06-27,Smart Watch,Mobile,9,3224.38,Northwest
+2024-06-27,Bookshelf,Furniture,38,10612.46,East
+2024-06-27,Desk,Furniture,15,11445.79,Northwest
+2024-06-27,Bookshelf,Furniture,38,12261.87,Northwest
+2024-06-27,Charger,Mobile,10,216.46,Southeast
+2024-06-27,Shoes,Clothing,46,5522.58,North
+2024-06-27,Jeans,Clothing,30,2151.82,South
+2024-06-27,Bed,Furniture,28,14198.98,South
+2024-06-27,USB Cable,Electronics,10,181.25,Southeast
+2024-06-28,Power Bank,Mobile,14,466.94,South
+2024-06-28,HDMI Cable,Electronics,32,715.86,South
+2024-06-28,Oven,Appliances,16,5957.98,Central
+2024-06-28,Smart Watch,Mobile,21,6481.63,Northeast
+2024-06-28,Mattress,Furniture,41,21430.25,Northwest
+2024-06-28,Coffee Maker,Appliances,28,4153.04,West
+2024-06-29,Hat,Clothing,38,1210.44,South
+2024-06-29,Microphone,Electronics,36,4725.45,West
+2024-06-29,Speaker,Electronics,14,1554.8,North
+2024-06-29,Chair,Furniture,31,6343.87,Northeast
+2024-06-29,Dishwasher,Appliances,16,15878.93,North
+2024-06-29,Screen Protector,Mobile,49,677.46,Northeast
+2024-06-29,Desk,Furniture,28,22327.52,East
+2024-06-29,Hat,Clothing,37,700.31,South
+2024-06-29,External SSD,Electronics,16,2124.99,Northwest
+2024-06-29,Jeans,Clothing,30,2473.9,North
+2024-06-29,Socks,Clothing,43,291.81,East
+2024-06-29,Case,Electronics,5,562.43,Southeast
+2024-06-29,Desk,Furniture,48,17183.5,Central
+2024-06-29,Sofa,Furniture,40,20210.05,Southeast
+2024-06-30,Speaker,Electronics,32,5675.24,Northeast
+2024-06-30,Cabinet,Furniture,15,5744.04,Northeast
+2024-06-30,Bookshelf,Furniture,18,2045.78,East
+2024-06-30,External SSD,Electronics,19,3319.15,Southeast
+2024-06-30,Webcam,Electronics,39,1777.97,South
+2024-06-30,Tablet,Mobile,33,17341.33,East
+2024-06-30,Power Supply,Electronics,18,3296.77,Northwest
+2024-06-30,Phone Case,Mobile,24,728.41,East
